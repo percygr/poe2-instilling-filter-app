@@ -1,0 +1,119 @@
+/* src/App.css */
+body {
+  background-color: #333;
+}
+
+.App {
+  font-family: Arial, sans-serif;
+  background-color: #333;
+  color: #ddd;
+  padding: 20px;
+}
+
+.flash-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #444;
+  color: #ddd;
+}
+
+.flash-card h2 a {
+  text-decoration: none;
+  color: #4fa3f7; 
+  font-weight: bold;
+}
+
+.flash-card h2 a:hover {
+  color: #ff9c00; 
+}
+
+.flash-card ul {
+  list-style-type: none;
+  color: #ddd;
+  padding: 0;
+}
+
+.flash-card ul li {
+  margin: 5px 0;
+  color: #ddd;
+}
+
+/* Container for the grid */
+.flash-card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  gap: 20px; /* space between the cards */
+  margin-top: 20px;
+}
+
+/* Make the grid responsive: 2 cards per row on medium screens */
+@media (max-width: 900px) {
+  .flash-card-container {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  }
+}
+
+/* Make the grid responsive: 1 card per row on small screens */
+@media (max-width: 600px) {
+  .flash-card-container {
+    grid-template-columns: 1fr; /* 1 column */
+  }
+}
+
+/* Customize the emotion input section */
+.emotion-inputs {
+  display: flex;
+  justify-content: space-between; /* Place items in one row */
+  margin-top: 30px;
+  flex-wrap: wrap; /* Allow wrapping for small screens */
+}
+
+.emotion-input {
+  display: flex;
+  flex-direction: row; /* Arrange image to the left of the controls */
+  align-items: center;
+  width: 100px; /* Set width for each input container */
+  margin: 0 10px;
+}
+
+.emotion-input img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px; /* Space between image and arrows */
+}
+
+.emotion-input .arrow-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.number-display {
+  font-size: 20px;
+  color: #ddd;
+  margin: 5px 0;
+}
+
+.arrow-button {
+  background-color: #555;
+  color: #ddd;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+  width: 30px;
+}
+
+.arrow-button:hover {
+  background-color: #777;
+}
+
+.arrow-button.up {
+  margin-bottom: 5px;
+}
+
+.arrow-button.down {
+  margin-top: 5px;
+}
