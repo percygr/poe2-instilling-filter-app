@@ -13,6 +13,7 @@ body {
 .flash-card {
   border: 1px solid #ddd;
   padding: 10px;
+  padding-top: 0px;
   margin: 10px;
   border-radius: 5px;
   background-color: #444;
@@ -29,22 +30,11 @@ body {
   color: #ff9c00; 
 }
 
-.flash-card ul {
-  list-style-type: none;
-  color: #ddd;
-  padding: 0;
-}
-
-.flash-card ul li {
-  margin: 5px 0;
-  color: #ddd;
-}
-
 /* Container for the grid */
 .flash-card-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns */
-  gap: 20px; /* space between the cards */
+  grid-template-columns: repeat(4, 1fr); /* 3 columns */
+  gap: 10px; /* space between the cards */
   margin-top: 20px;
 }
 

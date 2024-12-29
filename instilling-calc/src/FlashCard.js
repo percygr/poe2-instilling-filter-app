@@ -1,7 +1,6 @@
 // src/FlashCard.js
 import React from 'react';
 
-// src/FlashCard.js
 const FlashCard = ({ flashData }) => {
     //console.log('FlashCard received data:', flashData);  // Check if data is passed to the component
     return (
@@ -12,11 +11,10 @@ const FlashCard = ({ flashData }) => {
         </a>
       </h2>
         <p>{flashData.Description}</p>
-        <ul>
-          <li>{flashData.Item1}</li>
-          <li>{flashData.Item2}</li>
-          <li>{flashData.Item3}</li>
-        </ul>
+        <label>
+          {flashData.Item1}, {flashData.Item2}, {flashData.Item3}
+        </label>
+
       </div>
     );
   };
