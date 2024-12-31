@@ -26,7 +26,7 @@
   {
     "Name": "High Alert",
     "URL": "https://poe2db.tw/us/High_Alert",
-    "Description": "50% increased Evasion Rating when on Full Life 25% increased Stun Threshold while on Full Life",
+    "Description": "50% increased Evasion Rating when on Full Life\n\n25% increased Stun Threshold while on Full Life",
     "Item1": "Ire",
     "Item2": "Ire",
     "Item3": "Greed"
@@ -34,7 +34,7 @@
   {
     "Name": "Defensive Reflexes",
     "URL": "https://poe2db.tw/us/Defensive_Reflexes",
-    "Description": "12% increased Block chance 2 Mana gained when you Block",
+    "Description": "12% increased Block chance\n\n2 Mana gained when you Block",
     "Item1": "Greed",
     "Item2": "Ire",
     "Item3": "Ire"
@@ -42,7 +42,7 @@
   {
     "Name": "Volatile Catalyst",
     "URL": "https://poe2db.tw/us/Volatile_Catalyst",
-    "Description": "10% increased Area of Effect 10% increased Cooldown Recovery Rate",
+    "Description": "10% increased Area of Effect\n\n10% increased Cooldown Recovery Rate",
     "Item1": "Greed",
     "Item2": "Guilt",
     "Item3": "Ire"
@@ -50,7 +50,7 @@
   {
     "Name": "Eagle Eye",
     "URL": "https://poe2db.tw/us/Eagle_Eye",
-    "Description": "+30 to Accuracy Rating 10% increased Accuracy Rating",
+    "Description": "+30 to Accuracy Rating\n\n10% increased Accuracy Rating",
     "Item1": "Ire",
     "Item2": "Greed",
     "Item3": "Guilt"
@@ -58,7 +58,7 @@
   {
     "Name": "Combat Alchemy",
     "URL": "https://poe2db.tw/us/Combat_Alchemy",
-    "Description": "10% chance for Flasks you use to not consume Charges 20% increased Life and Mana Recovery from Flasks",
+    "Description": "10% chance for Flasks you use to not consume Charges\n\n20% increased Life and Mana Recovery from Flasks",
     "Item1": "Guilt",
     "Item2": "Greed",
     "Item3": "Ire"
@@ -82,7 +82,7 @@
   {
     "Name": "Hard to Kill",
     "URL": "https://poe2db.tw/us/Hard_to_Kill",
-    "Description": "40% increased Flask Life Recovery rate Regenerate 0.75% of Life per second",
+    "Description": "40% increased Flask Life Recovery rate\n\nRegenerate 0.75% of Life per second",
     "Item1": "Guilt",
     "Item2": "Greed",
     "Item3": "Guilt"
@@ -98,7 +98,7 @@
   {
     "Name": "Backup Plan",
     "URL": "https://poe2db.tw/us/Backup_Plan",
-    "Description": "40% increased Evasion Rating if you have been Hit Recently 40% increased Armour if you haven't been HitRecently",
+    "Description": "40% increased Evasion Rating if you have been Hit Recently\n\n40% increased Armour if you haven't been Hit Recently",
     "Item1": "Greed",
     "Item2": "Greed",
     "Item3": "Ire"
@@ -106,7 +106,7 @@
   {
     "Name": "Seeing Stars",
     "URL": "https://poe2db.tw/us/Seeing_Stars",
-    "Description": "25% increased Daze Buildup 25% increased Daze Duration",
+    "Description": "25% increased Daze Buildup\n\n25% increased Daze Duration",
     "Item1": "Ire",
     "Item2": "Guilt",
     "Item3": "Paranoia"
@@ -130,7 +130,7 @@
   {
     "Name": "Catlike Agility",
     "URL": "https://poe2db.tw/us/Catlike_Agility",
-    "Description": "25% increased Evasion Rating 25% increased Evasion Rating if you've Dodge Rolled Recently",
+    "Description": "25% increased Evasion Rating\n\n25% increased Evasion Rating if you've Dodge Rolled Recently",
     "Item1": "Paranoia",
     "Item2": "Guilt",
     "Item3": "Ire"
@@ -138,7 +138,7 @@
   {
     "Name": "Heavy Ammunition",
     "URL": "https://poe2db.tw/us/Heavy_Ammunition",
-    "Description": "8% reduced Attack Speed 40% increased Projectile Damage 40% increased ProjectileStun Buildup",
+    "Description": "8% reduced Attack Speed\n\n40% increased Projectile Damage\n\n40% increased Projectile Stun Buildup",
     "Item1": "Guilt",
     "Item2": "Greed",
     "Item3": "Greed"
@@ -146,7 +146,7 @@
   {
     "Name": "Flashy Deflection",
     "URL": "https://poe2db.tw/us/Flashy_Deflection",
-    "Description": "12% increased Block chance 40% increased Defences from Equipped Shield",
+    "Description": "12% increased Block chance\n\n40% increased Defences from Equipped Shield",
     "Item1": "Greed",
     "Item2": "Guilt",
     "Item3": "Greed"
@@ -154,7 +154,7 @@
   {
     "Name": "Clear Space",
     "URL": "https://poe2db.tw/us/Clear_Space",
-    "Description": "20% increased Knockback Distance 20% chance toKnock Enemies Back with Hits at Close Range",
+    "Description": "20% increased Knockback Distance\n\n20% chance to Knock Enemies Back with Hits at Close Range",
     "Item1": "Paranoia",
     "Item2": "Guilt",
     "Item3": "Guilt"
@@ -162,7 +162,7 @@
   {
     "Name": "Careful Aim",
     "URL": "https://poe2db.tw/us/Careful_Aim",
-    "Description": "16% increased Projectile Damage 40% increased Accuracy Rating at Close Range",
+    "Description": "16% increased Projectile Damage\n\n40% increased Accuracy Rating at Close Range",
     "Item1": "Guilt",
     "Item2": "Guilt",
     "Item3": "Paranoia"
@@ -170,7 +170,7 @@
   {
     "Name": "Radial Force",
     "URL": "https://poe2db.tw/us/Radial_Force",
-    "Description": "10% increased Area of Effect 10% increased Area Damage",
+    "Description": "10% increased Area of Effect\n\n10% increased Area Damage",
     "Item1": "Paranoia",
     "Item2": "Greed",
     "Item3": "Ire"
@@ -178,7 +178,7 @@
   {
     "Name": "Mass Rejuvenation",
     "URL": "https://poe2db.tw/us/Mass_Rejuvenation",
-    "Description": "Regenerate 0.5% of Life per second Allies in your Presence Regenerate 1% of your Maximum Life per second",
+    "Description": "Regenerate 0.5% of Life per second\n\nAllies in your Presence Regenerate 1% of your Maximum Life per second",
     "Item1": "Ire",
     "Item2": "Paranoia",
     "Item3": "Greed"
@@ -202,7 +202,7 @@
   {
     "Name": "Primal Protection",
     "URL": "https://poe2db.tw/us/Primal_Protection",
-    "Description": "25% increased Charm Effect Duration 25% increased Charm Charges gained",
+    "Description": "25% increased Charm Effect Duration\n\n25% increased Charm Charges gained",
     "Item1": "Guilt",
     "Item2": "Greed",
     "Item3": "Paranoia"
@@ -210,7 +210,7 @@
   {
     "Name": "Battle-hardened",
     "URL": "https://poe2db.tw/us/Battle-hardened",
-    "Description": "Hits against you have 20% reduced Critical Damage Bonus 20% increased Armour and Evasion Rating +5 to Strength and Dexterity",
+    "Description": "Hits against you have 20% reduced Critical Damage Bonus\n\n20% increased Armour and Evasion Rating\n\n+5 to Strength and Dexterity",
     "Item1": "Greed",
     "Item2": "Guilt",
     "Item3": "Paranoia"
@@ -218,7 +218,7 @@
   {
     "Name": "Stand Ground",
     "URL": "https://poe2db.tw/us/Stand_Ground",
-    "Description": "Regenerate 1% of Life per second while affected by any Damaging Ailment Regenerate 1% of Life per second while stationary",
+    "Description": "Regenerate 1% of Life per second while affected by any Damaging Ailment\n\nRegenerate 1% of Life per second while stationary",
     "Item1": "Greed",
     "Item2": "Paranoia",
     "Item3": "Guilt"
@@ -226,7 +226,7 @@
   {
     "Name": "Defenders Resolve",
     "URL": "https://poe2db.tw/us/Defenders_Resolve",
-    "Description": "12% increased Block chance Stagger empties 50% faster while your Shield is lowered",
+    "Description": "12% increased Block chance\n\nStagger empties 50% faster while your Shield is lowered",
     "Item1": "Guilt",
     "Item2": "Paranoia",
     "Item3": "Greed"
@@ -234,7 +234,7 @@
   {
     "Name": "Feel no Pain",
     "URL": "https://poe2db.tw/us/Feel_no_Pain",
-    "Description": "20% increased Armour and Evasion Rating 20% increased Stun Threshold",
+    "Description": "20% increased Armour and Evasion Rating\n\n20% increased Stun Threshold",
     "Item1": "Paranoia",
     "Item2": "Greed",
     "Item3": "Guilt"
@@ -242,7 +242,7 @@
   {
     "Name": "Titans Determination",
     "URL": "https://poe2db.tw/us/Titans_Determination",
-    "Description": "25% increased Stun Threshold 20% increased Life Regeneration Rate while moving",
+    "Description": "25% increased Stun Threshold\n\n20% increased Life Regeneration Rate while moving",
     "Item1": "Ire",
     "Item2": "Paranoia",
     "Item3": "Paranoia"
@@ -258,7 +258,7 @@
   {
     "Name": "Killer Instinct",
     "URL": "https://poe2db.tw/us/Killer_Instinct",
-    "Description": "30% increased Attack Damage when on Full Life 50% increased Attack Damage when on Low Life",
+    "Description": "30% increased Attack Damage when on Full Life\n\n50% increased Attack Damage when on Low Life",
     "Item1": "Greed",
     "Item2": "Paranoia",
     "Item3": "Greed"
@@ -274,7 +274,7 @@
   {
     "Name": "Arcane Mixtures",
     "URL": "https://poe2db.tw/us/Arcane_Mixtures",
-    "Description": "25% increased Energy Shield Recharge Rate Mana Flasks gain 0.1 charges per Second",
+    "Description": "25% increased Energy Shield Recharge Rate\n\nMana Flasks gain 0.1 charges per Second",
     "Item1": "Paranoia",
     "Item2": "Paranoia",
     "Item3": "Guilt"
@@ -282,7 +282,7 @@
   {
     "Name": "Forcewave",
     "URL": "https://poe2db.tw/us/Forcewave",
-    "Description": "20% increased Stun Buildup 20% increased Knockback Distance +10 to Strength",
+    "Description": "20% increased Stun Buildup\n\n20% increased Knockback Distance\n\n+10 to Strength",
     "Item1": "Greed",
     "Item2": "Paranoia",
     "Item3": "Paranoia"
@@ -290,7 +290,7 @@
   {
     "Name": "Careful Consideration",
     "URL": "https://poe2db.tw/us/Careful_Consideration",
-    "Description": "30% reduced Evasion Rating if you have been Hit Recently 100% increased Evasion Rating if you haven't been Hit Recently",
+    "Description": "30% reduced Evasion Rating if you have been Hit Recently\n\n100% increased Evasion Rating if you haven't been Hit Recently",
     "Item1": "Paranoia",
     "Item2": "Paranoia",
     "Item3": "Greed"
@@ -298,7 +298,7 @@
   {
     "Name": "Hunters Talisman",
     "URL": "https://poe2db.tw/us/Hunters_Talisman",
-    "Description": "+1Charm SlotCommunity Wiki",
+    "Description": "+1 Charm Slot",
     "Item1": "Paranoia",
     "Item2": "Paranoia",
     "Item3": "Paranoia"
@@ -306,7 +306,7 @@
   {
     "Name": "Investing Energies",
     "URL": "https://poe2db.tw/us/Investing_Energies",
-    "Description": "40% increased Mana Regeneration Rate while stationary 20% reduced Mana Regeneration Rate while moving",
+    "Description": "40% increased Mana Regeneration Rate while stationary\n\n20% reduced Mana Regeneration Rate while moving",
     "Item1": "Ire",
     "Item2": "Ire",
     "Item3": "Envy"
@@ -314,7 +314,7 @@
   {
     "Name": "Deft Recovery",
     "URL": "https://poe2db.tw/us/Deft_Recovery",
-    "Description": "30% increased Stun Recovery 30% increased Stun Threshold if you haven't been Stunned Recently",
+    "Description": "30% increased Stun Recovery\n\n30% increased Stun Threshold if you haven't been Stunned Recently",
     "Item1": "Envy",
     "Item2": "Ire",
     "Item3": "Ire"
@@ -322,7 +322,7 @@
   {
     "Name": "Critical Overload",
     "URL": "https://poe2db.tw/us/Critical_Overload",
-    "Description": "15% increased Critical Hit Chance for Spells 15% increased Spell Damage if you've dealt a Critical Hit Recently",
+    "Description": "15% increased Critical Hit Chance for Spells\n\n15% increased Spell Damage if you've dealt a Critical Hit Recently",
     "Item1": "Guilt",
     "Item2": "Envy",
     "Item3": "Ire"
@@ -330,7 +330,7 @@
   {
     "Name": "Altered Brain Chemistry",
     "URL": "https://poe2db.tw/us/Altered_Brain_Chemistry",
-    "Description": "25% increased Mana Recovery from Flasks 10% increased Mana Recovery Rate during Effect of any Mana Flask",
+    "Description": "25% increased Mana Recovery from Flasks\n\n10% increased Mana Recovery Rate during Effect of any Mana Flask",
     "Item1": "Ire",
     "Item2": "Envy",
     "Item3": "Guilt"
@@ -338,7 +338,7 @@
   {
     "Name": "Deadly Flourish",
     "URL": "https://poe2db.tw/us/Deadly_Flourish",
-    "Description": "20% increased Melee Critical Hit Chance melee critical strike chance +% when on full life [20]",
+    "Description": "20% increased Melee Critical Hit Chance\n\nmelee critical strike chance +% when on full life [20]",
     "Item1": "Envy",
     "Item2": "Ire",
     "Item3": "Guilt"
@@ -354,7 +354,7 @@
   {
     "Name": "Vigilance",
     "URL": "https://poe2db.tw/us/Vigilance",
-    "Description": "12% increased Block chance 6 Life gained when you Block",
+    "Description": "12% increased Block chance\n\n6 Life gained when you Block",
     "Item1": "Guilt",
     "Item2": "Envy",
     "Item3": "Guilt"
@@ -362,7 +362,7 @@
   {
     "Name": "Determined Precision",
     "URL": "https://poe2db.tw/us/Determined_Precision",
-    "Description": "30% increased Accuracy Rating at Close Range +10 to Dexterity",
+    "Description": "30% increased Accuracy Rating at Close Range\n\n+10 to Dexterity",
     "Item1": "Ire",
     "Item2": "Greed",
     "Item3": "Envy"
@@ -370,7 +370,7 @@
   {
     "Name": "Initiative",
     "URL": "https://poe2db.tw/us/Initiative",
-    "Description": "30% increased Melee Damage when on Full Life 16% increased Attack Speed if you haven't Attacked Recently",
+    "Description": "30% increased Melee Damage when on Full Life\n\n16% increased Attack Speed if you haven't Attacked Recently",
     "Item1": "Greed",
     "Item2": "Ire",
     "Item3": "Envy"
@@ -378,7 +378,7 @@
   {
     "Name": "Taste for Blood",
     "URL": "https://poe2db.tw/us/Taste_for_Blood",
-    "Description": "Gain 20 Life per Enemy Killed 2% chance to Recover all Life when you Kill an Enemy",
+    "Description": "Gain 20 Life per Enemy Killed\n\n2% chance to Recover all Life when you Kill an Enemy",
     "Item1": "Envy",
     "Item2": "Ire",
     "Item3": "Greed"
@@ -394,7 +394,7 @@
   {
     "Name": "Thickened Arteries",
     "URL": "https://poe2db.tw/us/Thickened_Arteries",
-    "Description": "5% reduced Movement Speed Regenerate 1% of Life per second while stationary",
+    "Description": "5% reduced Movement Speed\n\nRegenerate 1% of Life per second while stationary",
     "Item1": "Envy",
     "Item2": "Guilt",
     "Item3": "Greed"
@@ -402,7 +402,7 @@
   {
     "Name": "Smooth Buckler",
     "URL": "https://poe2db.tw/us/Smooth_Buckler",
-    "Description": "12% increased Block chance 10 Mana gained when you Block",
+    "Description": "12% increased Block chance\n\n10 Mana gained when you Block",
     "Item1": "Guilt",
     "Item2": "Envy",
     "Item3": "Greed"
@@ -410,7 +410,7 @@
   {
     "Name": "Cross Strike",
     "URL": "https://poe2db.tw/us/Cross_Strike",
-    "Description": "20% increased Accuracy Rating while Dual Wielding 3% increased Movement Speed while Dual Wielding",
+    "Description": "20% increased Accuracy Rating while Dual Wielding\n\n3% increased Movement Speed while Dual Wielding",
     "Item1": "Guilt",
     "Item2": "Greed",
     "Item3": "Envy"
@@ -442,7 +442,7 @@
   {
     "Name": "Shedding Skin",
     "URL": "https://poe2db.tw/us/Shedding_Skin",
-    "Description": "40% increased Elemental Ailment Threshold 10% reduced Duration of Ailments on You",
+    "Description": "40% increased Elemental Ailment Threshold\n\n10% reduced Duration of Ailments on You",
     "Item1": "Envy",
     "Item2": "Ire",
     "Item3": "Paranoia"
@@ -450,7 +450,7 @@
   {
     "Name": "Arcane Alchemy",
     "URL": "https://poe2db.tw/us/Arcane_Alchemy",
-    "Description": "Mana Flasks gain 0.1 charges per Second +10 to Intelligence",
+    "Description": "Mana Flasks gain 0.1 charges per Second\n\n+10 to Intelligence",
     "Item1": "Envy",
     "Item2": "Greed",
     "Item3": "Greed"
@@ -458,7 +458,7 @@
   {
     "Name": "Freedom of Movement",
     "URL": "https://poe2db.tw/us/Freedom_of_Movement",
-    "Description": "30% increased Evasion Rating 30% increased Evasion Rating if you've Dodge Rolled Recently",
+    "Description": "30% increased Evasion Rating\n\n30% increased Evasion Rating if you've Dodge Rolled Recently",
     "Item1": "Greed",
     "Item2": "Greed",
     "Item3": "Envy"
@@ -466,7 +466,7 @@
   {
     "Name": "Siphon",
     "URL": "https://poe2db.tw/us/Siphon",
-    "Description": "Recover 2% of Mana on Kill 25% increased amount of Mana Leeched",
+    "Description": "Recover 2% of Mana on Kill\n\n25% increased amount of Mana Leeched",
     "Item1": "Paranoia",
     "Item2": "Envy",
     "Item3": "Guilt"
@@ -474,7 +474,7 @@
   {
     "Name": "Fear of Death",
     "URL": "https://poe2db.tw/us/Fear_of_Death",
-    "Description": "Minions have +150 to Accuracy Rating 25% increased MinionAccuracy Rating",
+    "Description": "Minions have +150 to Accuracy Rating\n\n25% increased Minion Accuracy Rating",
     "Item1": "Envy",
     "Item2": "Paranoia",
     "Item3": "Guilt"
@@ -482,7 +482,7 @@
   {
     "Name": "Exposed Wounds",
     "URL": "https://poe2db.tw/us/Exposed_Wounds",
-    "Description": "15% increased chance to inflict Ailments Break 30% increased Armour on enemies affected by Ailments",
+    "Description": "15% increased chance to inflict Ailments\n\nBreak 30% increased Armour on enemies affected by Ailments",
     "Item1": "Envy",
     "Item2": "Paranoia",
     "Item3": "Greed"
@@ -490,7 +490,7 @@
   {
     "Name": "Warding Potions",
     "URL": "https://poe2db.tw/us/Warding_Potions",
-    "Description": "10% reduced Flask Charges used from Mana Flasks Remove a Curse when you use a Mana Flask",
+    "Description": "10% reduced Flask Charges used from Mana\n\nFlasks Remove a Curse when you use a Mana Flask",
     "Item1": "Greed",
     "Item2": "Envy",
     "Item3": "Paranoia"
@@ -498,7 +498,7 @@
   {
     "Name": "Electrifying Nature",
     "URL": "https://poe2db.tw/us/Electrifying_Nature",
-    "Description": "25% increased Lightning Damage 15% increased Shock Duration",
+    "Description": "25% increased Lightning Damage\n\n15% increased Shock Duration",
     "Item1": "Envy",
     "Item2": "Greed",
     "Item3": "Paranoia"
@@ -514,7 +514,7 @@
   {
     "Name": "Unbreaking",
     "URL": "https://poe2db.tw/us/Unbreaking",
-    "Description": "30% increased Stun Threshold 30% increased Elemental Ailment Threshold",
+    "Description": "30% increased Stun Threshold\n\n30% increased Elemental Ailment Threshold",
     "Item1": "Paranoia",
     "Item2": "Envy",
     "Item3": "Paranoia"
@@ -522,7 +522,7 @@
   {
     "Name": "Smash",
     "URL": "https://poe2db.tw/us/Smash",
-    "Description": "20% increased Melee Damage 40% increased Melee Damage against Heavy Stunned enemies",
+    "Description": "20% increased Melee Damage\n\n40% increased Melee Damage against Heavy Stunned enemies",
     "Item1": "Envy",
     "Item2": "Envy",
     "Item3": "Ire"
@@ -530,7 +530,7 @@
   {
     "Name": "Self Mortification",
     "URL": "https://poe2db.tw/us/Self_Mortification",
-    "Description": "Gain 20% of maximum Energy Shield as additional Stun Threshold 20% increased Stun Threshold while on Full Life",
+    "Description": "Gain 20% of maximum Energy Shield as additional Stun Threshold\n\n20% increased Stun Threshold while on Full Life",
     "Item1": "Ire",
     "Item2": "Envy",
     "Item3": "Envy"
@@ -538,7 +538,7 @@
   {
     "Name": "Resilient Soul",
     "URL": "https://poe2db.tw/us/Resilient_Soul",
-    "Description": "20% increased Life Regeneration rate 5% of Damage taken Recouped as Life",
+    "Description": "20% increased Life Regeneration rate\n\n5% of Damage taken Recouped as Life",
     "Item1": "Envy",
     "Item2": "Guilt",
     "Item3": "Envy"
@@ -546,7 +546,7 @@
   {
     "Name": "Ether Flow",
     "URL": "https://poe2db.tw/us/Ether_Flow",
-    "Description": "25% reduced Mana Regeneration Rate while stationary 50% increased Mana Regeneration Rate while moving",
+    "Description": "25% reduced Mana Regeneration Rate while stationary\n\n50% increased Mana Regeneration Rate while moving",
     "Item1": "Envy",
     "Item2": "Greed",
     "Item3": "Envy"
@@ -562,7 +562,7 @@
   {
     "Name": "Essence Infusion",
     "URL": "https://poe2db.tw/us/Essence_Infusion",
-    "Description": "40% increased Energy Shield Recharge Rate +10 to Intelligence",
+    "Description": "40% increased Energy Shield Recharge Rate\n\n+10 to Intelligence",
     "Item1": "Envy",
     "Item2": "Envy",
     "Item3": "Greed"
@@ -570,7 +570,7 @@
   {
     "Name": "Relentless Vindicator",
     "URL": "https://poe2db.tw/us/Relentless_Vindicator",
-    "Description": "10% increased Damage 10% increased Critical Hit Chance +5 to Strength and Intelligence",
+    "Description": "10% increased Damage\n\n10% increased Critical Hit Chance\n\n+5 to Strength and Intelligence",
     "Item1": "Envy",
     "Item2": "Paranoia",
     "Item3": "Envy"
@@ -594,7 +594,7 @@
   {
     "Name": "Sharp Sight",
     "URL": "https://poe2db.tw/us/Sharp_Sight",
-    "Description": "5% increased Attack Speed 30% increased Accuracy Rating against Rare or Unique Enemies",
+    "Description": "5% increased Attack Speed\n\n30% increased Accuracy Rating against Rare or Unique Enemies",
     "Item1": "Guilt",
     "Item2": "Disgust",
     "Item3": "Ire"
@@ -602,7 +602,7 @@
   {
     "Name": "True Strike",
     "URL": "https://poe2db.tw/us/True_Strike",
-    "Description": "+10 to Dexterity 20% increased Critical Hit Chance",
+    "Description": "+10 to Dexterity\n\n20% increased Critical Hit Chance",
     "Item1": "Ire",
     "Item2": "Guilt",
     "Item3": "Disgust"
@@ -618,7 +618,7 @@
   {
     "Name": "Rapid Recharge",
     "URL": "https://poe2db.tw/us/Rapid_Recharge",
-    "Description": "25% increased Energy Shield Recharge Rate 25% faster start of Energy Shield Recharge Witch: Minions have 15% increased maximum Life Witch: MinionsRevive15% faster",
+    "Description": "25% increased Energy Shield Recharge Rate\n\n25% faster start of Energy Shield Recharge\n\nWitch: Minions have 15% increased maximum Life Witch: Minions Revive 15% faster",
     "Item1": "Guilt",
     "Item2": "Ire",
     "Item3": "Disgust"
@@ -626,7 +626,7 @@
   {
     "Name": "Hulking Smash",
     "URL": "https://poe2db.tw/us/Hulking_Smash",
-    "Description": "30% increased Stun Buildup +15 to Strength",
+    "Description": "30% increased Stun Buildup\n\n+15 to Strength",
     "Item1": "Disgust",
     "Item2": "Guilt",
     "Item3": "Guilt"
@@ -634,7 +634,7 @@
   {
     "Name": "Shrapnel",
     "URL": "https://poe2db.tw/us/Shrapnel",
-    "Description": "30% chance to Pierce an Enemy Projectiles have 10% chance to Chain an additional time from terrain",
+    "Description": "30% chance to Pierce an Enemy\n\nProjectiles have 10% chance to Chain an additional time from terrain",
     "Item1": "Guilt",
     "Item2": "Guilt",
     "Item3": "Disgust"
@@ -642,7 +642,7 @@
   {
     "Name": "Heavy Drinker",
     "URL": "https://poe2db.tw/us/Heavy_Drinker",
-    "Description": "30% increased Flask Effect Duration 20% increased Life Recovery from Flasks Recover 5% of Life when you use a Life Flask while on Low Life",
+    "Description": "30% increased Flask Effect Duration\n\n20% increased Life Recovery from Flasks\n\nRecover 5% of Life when you use a Life Flask while on Low Life",
     "Item1": "Envy",
     "Item2": "Envy",
     "Item3": "Envy"
@@ -650,7 +650,7 @@
   {
     "Name": "Roil",
     "URL": "https://poe2db.tw/us/Roil",
-    "Description": "Spell Skills have 30% increased Area of Effect 10% reduced Spell Area Damage",
+    "Description": "Spell Skills have 30% increased Area of Effect\n\n10% reduced Spell Area Damage",
     "Item1": "Disgust",
     "Item2": "Greed",
     "Item3": "Ire"
@@ -666,7 +666,7 @@
   {
     "Name": "Unerring Impact",
     "URL": "https://poe2db.tw/us/Unerring_Impact",
-    "Description": "10% increased Accuracy Rating with One Handed Melee Weapons 10% increased Accuracy Rating with Two Handed Melee Weapons +2 to Melee Strike Range",
+    "Description": "10% increased Accuracy Rating with One Handed Melee Weapons\n\n10% increased Accuracy Rating with Two Handed Melee Weapons\n\n+2 to Melee Strike Range",
     "Item1": "Greed",
     "Item2": "Disgust",
     "Item3": "Ire"
@@ -674,7 +674,7 @@
   {
     "Name": "Remorseless",
     "URL": "https://poe2db.tw/us/Remorseless",
-    "Description": "15% increased Projectile Damage 30% increased Stun Buildup against enemies within 2 metres +5 to Strength and Dexterity",
+    "Description": "15% increased Projectile Damage\n\n30% increased Stun Buildup against enemies within 2 metres\n\n+5 to Strength and Dexterity",
     "Item1": "Greed",
     "Item2": "Disgust",
     "Item3": "Guilt"
@@ -682,7 +682,7 @@
   {
     "Name": "Wellspring",
     "URL": "https://poe2db.tw/us/Wellspring",
-    "Description": "30% increased Mana Recovery from Flasks 8% increased Attack and Cast Speed during Effect of any Mana Flask",
+    "Description": "30% increased Mana Recovery from Flasks\n\n8% increased Attack and Cast Speed during Effect of any Mana Flask",
     "Item1": "Disgust",
     "Item2": "Greed",
     "Item3": "Guilt"
@@ -706,7 +706,7 @@
   {
     "Name": "Blur",
     "URL": "https://poe2db.tw/us/Blur",
-    "Description": "4% increased Movement Speed 20% increased Evasion Rating +10 to Dexterity",
+    "Description": "4% increased Movement Speed\n\n20% increased Evasion Rating +10 to Dexterity",
     "Item1": "Paranoia",
     "Item2": "Disgust",
     "Item3": "Ire"
@@ -714,7 +714,7 @@
   {
     "Name": "Adverse Growth",
     "URL": "https://poe2db.tw/us/Adverse_Growth",
-    "Description": "20% reduced Life Regeneration rate 20% of Damage taken Recouped as Mana",
+    "Description": "20% reduced Life Regeneration rate\n\n20% of Damage taken Recouped as Mana",
     "Item1": "Ire",
     "Item2": "Paranoia",
     "Item3": "Disgust"
@@ -722,7 +722,7 @@
   {
     "Name": "Guttural Roar",
     "URL": "https://poe2db.tw/us/Guttural_Roar",
-    "Description": "30% increased Warcry Speed Warcry Skills have 30% increased Area of Effect",
+    "Description": "30% increased Warcry Speed\n\nWarcry Skills have 30% increased Area of Effect",
     "Item1": "Paranoia",
     "Item2": "Ire",
     "Item3": "Disgust"
@@ -730,7 +730,7 @@
   {
     "Name": "Sundering",
     "URL": "https://poe2db.tw/us/Sundering",
-    "Description": "25% increased Critical Damage Bonus for Attack Damage +25% to Critical Damage Bonus against Stunned Enemies",
+    "Description": "25% increased Critical Damage Bonus for Attack Damage\n\n+25% to Critical Damage Bonus against Stunned Enemies",
     "Item1": "Disgust",
     "Item2": "Paranoia",
     "Item3": "Ire"
@@ -746,7 +746,7 @@
   {
     "Name": "Regenerative Flesh",
     "URL": "https://poe2db.tw/us/Regenerative_Flesh",
-    "Description": "MinionsRecoup10% of Damage taken as Life",
+    "Description": "Minions Recoup 10% of Damage taken as Life",
     "Item1": "Greed",
     "Item2": "Disgust",
     "Item3": "Greed"
@@ -754,7 +754,7 @@
   {
     "Name": "Deafening Cries",
     "URL": "https://poe2db.tw/us/Deafening_Cries",
-    "Description": "25% increased Warcry Cooldown Recovery Rate 8% increased Damage for each time you've Warcried Recently",
+    "Description": "25% increased Warcry Cooldown Recovery Rate\n\n8% increased Damage for each time you've Warcried Recently",
     "Item1": "Disgust",
     "Item2": "Guilt",
     "Item3": "Paranoia"
@@ -762,7 +762,7 @@
   {
     "Name": "Doomsayer",
     "URL": "https://poe2db.tw/us/Doomsayer",
-    "Description": "Herald Skills have 30% increased Area of Effect Herald Skills deal 30% increased Damage",
+    "Description": "Herald Skills have 30% increased Area of Effect\n\nHerald Skills deal 30% increased Damage",
     "Item1": "Paranoia",
     "Item2": "Guilt",
     "Item3": "Disgust"
@@ -778,7 +778,7 @@
   {
     "Name": "Viciousness",
     "URL": "https://poe2db.tw/us/Viciousness",
-    "Description": "8% increased MeleeAttack Speed +10 to Dexterity",
+    "Description": "8% increased Mele eAttack Speed\n\n+10 to Dexterity",
     "Item1": "Disgust",
     "Item2": "Greed",
     "Item3": "Paranoia"
@@ -786,7 +786,7 @@
   {
     "Name": "Serrated Edges",
     "URL": "https://poe2db.tw/us/Serrated_Edges",
-    "Description": "10% increased Critical Hit Chance for Attacks 30% increased Attack Damage against Rare or Unique Enemies",
+    "Description": "10% increased Critical Hit Chance for Attacks\n\n30% increased Attack Damage against Rare or Unique Enemies",
     "Item1": "Paranoia",
     "Item2": "Disgust",
     "Item3": "Greed"
@@ -794,7 +794,7 @@
   {
     "Name": "Cranial Impact",
     "URL": "https://poe2db.tw/us/Cranial_Impact",
-    "Description": "30% increased Stun Buildup Gain an Endurance Charge when you Heavy Stun a Rare or Unique Enemy",
+    "Description": "30% increased Stun Buildup\n\nGain an Endurance Charge when you Heavy Stun a Rare or Unique Enemy",
     "Item1": "Greed",
     "Item2": "Paranoia",
     "Item3": "Disgust"
@@ -818,7 +818,7 @@
   {
     "Name": "Potent Incantation",
     "URL": "https://poe2db.tw/us/Potent_Incantation",
-    "Description": "30% increased Spell Damage 5% reduced Cast Speed",
+    "Description": "30% increased Spell Damage\n\n5% reduced Cast Speed",
     "Item1": "Paranoia",
     "Item2": "Paranoia",
     "Item3": "Disgust"
@@ -842,7 +842,7 @@
   {
     "Name": "Immaterial",
     "URL": "https://poe2db.tw/us/Immaterial",
-    "Description": "50% increased Evasion Rating if Energy Shield Recharge has started in the past 2 seconds 30% increased Evasion Rating while you have Energy Shield",
+    "Description": "50% increased Evasion Rating if Energy Shield Recharge has started in the past 2 seconds\n\n30% increased Evasion Rating while you have Energy Shield",
     "Item1": "Ire",
     "Item2": "Disgust",
     "Item3": "Envy"
@@ -850,7 +850,7 @@
   {
     "Name": "Strong Links",
     "URL": "https://poe2db.tw/us/Strong_Links",
-    "Description": "Link Skills have 20% increased Buff Effect Link Skills have 20% increased Skill Effect Duration",
+    "Description": "Link Skills have 20% increased Buff Effect\n\nLink Skills have 20% increased Skill Effect Duration",
     "Item1": "Guilt",
     "Item2": "Disgust",
     "Item3": "Envy"
@@ -866,7 +866,7 @@
   {
     "Name": "Unbound Forces",
     "URL": "https://poe2db.tw/us/Unbound_Forces",
-    "Description": "40% increased Chill Duration on Enemies 40% increased Shock Duration 25% increased Magnitude of Chill you inflict 25% increased Magnitude of Shock you inflict",
+    "Description": "40% increased Chill Duration on Enemies\n\n40% increased Shock Duration\n\n25% increased Magnitude of Chill you inflict\n\n25% increased Magnitude of Shock you inflict",
     "Item1": "Disgust",
     "Item2": "Envy",
     "Item3": "Guilt"
@@ -874,7 +874,7 @@
   {
     "Name": "Catapult",
     "URL": "https://poe2db.tw/us/Catapult",
-    "Description": "15% increased Projectile Speed 15% increased Area of Effect for Attacks",
+    "Description": "15% increased Projectile Speed\n\n15% increased Area of Effect for Attacks",
     "Item1": "Envy",
     "Item2": "Disgust",
     "Item3": "Guilt"
@@ -898,7 +898,7 @@
   {
     "Name": "Whirling Assault",
     "URL": "https://poe2db.tw/us/Whirling_Assault",
-    "Description": "8% increased Attack Speed with Quarterstaves Knocks Back Enemies if you get a Critical Hit with a Quarterstaff",
+    "Description": "8% increased Attack Speed with Quarterstaves\n\nKnocks Back Enemies if you get a Critical Hit with a Quarterstaff",
     "Item1": "Envy",
     "Item2": "Disgust",
     "Item3": "Greed"
@@ -906,7 +906,7 @@
   {
     "Name": "Heavy Weaponry",
     "URL": "https://poe2db.tw/us/Heavy_Weaponry",
-    "Description": "15% increased Melee Damage 15% increased Stun Buildup with Melee Damage +15 to Strength",
+    "Description": "15% increased Melee Damage\n\n15% increased Stun Buildup with Melee Damage\n\n+15 to Strength",
     "Item1": "Paranoia",
     "Item2": "Disgust",
     "Item3": "Envy"
@@ -914,7 +914,7 @@
   {
     "Name": "Coursing Energy",
     "URL": "https://poe2db.tw/us/Coursing_Energy",
-    "Description": "40% increased Electrocute Buildup 30% increased Shock Chance against Electrocuted Enemies",
+    "Description": "40% increased Electrocute Buildup\n\n30% increased Shock Chance against Electrocuted Enemies",
     "Item1": "Envy",
     "Item2": "Disgust",
     "Item3": "Paranoia"
@@ -930,7 +930,7 @@
   {
     "Name": "Impact Area",
     "URL": "https://poe2db.tw/us/Impact_Area",
-    "Description": "15% increased Area of Effect if you have Stunned an Enemy Recently 15% increased Area of Effect for Attacks",
+    "Description": "15% increased Area of Effect if you have Stunned an Enemy Recently\n\n15% increased Area of Effect for Attacks",
     "Item1": "Paranoia",
     "Item2": "Envy",
     "Item3": "Disgust"
@@ -938,7 +938,7 @@
   {
     "Name": "Resolution",
     "URL": "https://poe2db.tw/us/Resolution",
-    "Description": "10% increased Global Defences 25% increased Stun Threshold",
+    "Description": "10% increased Global Defences\n\n25% increased Stun Threshold",
     "Item1": "Envy",
     "Item2": "Disgust",
     "Item3": "Envy"
@@ -946,7 +946,7 @@
   {
     "Name": "Ricochet",
     "URL": "https://poe2db.tw/us/Ricochet",
-    "Description": "15% increased Projectile Damage Projectiles have 10% chance to Chain an additional time from terrain",
+    "Description": "15% increased Projectile Damage\n\nProjectiles have 10% chance to Chain an additional time from terrain",
     "Item1": "Ire",
     "Item2": "Disgust",
     "Item3": "Disgust"
@@ -954,7 +954,7 @@
   {
     "Name": "Conservative Casting",
     "URL": "https://poe2db.tw/us/Conservative_Casting",
-    "Description": "20% increased Mana Regeneration Rate 8% reduced Mana Cost of Skills",
+    "Description": "20% increased Mana Regeneration Rate\n\n8% reduced Mana Cost of Skills",
     "Item1": "Disgust",
     "Item2": "Disgust",
     "Item3": "Ire"
@@ -962,7 +962,7 @@
   {
     "Name": "Devastation",
     "URL": "https://poe2db.tw/us/Devastation",
-    "Description": "15% increased Area of Effect for Attacks 15% increased Attack Area Damage",
+    "Description": "15% increased Area of Effect for Attacks\n\n15% increased Attack Area Damage",
     "Item1": "Ire",
     "Item2": "Ire",
     "Item3": "Despair"
@@ -970,7 +970,7 @@
   {
     "Name": "Savoured Blood",
     "URL": "https://poe2db.tw/us/Savoured_Blood",
-    "Description": "35% increased amount of Life Leeched Leech Life 20% slower",
+    "Description": "35% increased amount of Life\n\nLeeched Leech Life 20% slower",
     "Item1": "Despair",
     "Item2": "Ire",
     "Item3": "Ire"
@@ -978,7 +978,7 @@
   {
     "Name": "Spreading Shocks",
     "URL": "https://poe2db.tw/us/Spreading_Shocks",
-    "Description": "ShockingHits have a 50% chance to also Shock enemies in a 1.5 metre radius",
+    "Description": "Shocking Hits have a 50% chance to also Shock enemies in a 1.5 metre radius",
     "Item1": "Guilt",
     "Item2": "Disgust",
     "Item3": "Disgust"
@@ -994,7 +994,7 @@
   {
     "Name": "Pressure Points",
     "URL": "https://poe2db.tw/us/Pressure_Points",
-    "Description": "35% increased Stun Buildup 35% increased Freeze Buildup",
+    "Description": "35% increased Stun Buildup\n\n35% increased Freeze Buildup",
     "Item1": "Guilt",
     "Item2": "Despair",
     "Item3": "Ire"
@@ -1002,7 +1002,7 @@
   {
     "Name": "Finishing Blows",
     "URL": "https://poe2db.tw/us/Finishing_Blows",
-    "Description": "60% increased Damage with Hits against Enemies that are on Low Life 30% increased Stun Buildup against Enemies that are on Low Life",
+    "Description": "60% increased Damage with Hits against Enemies that are on Low Life\n\n30% increased Stun Buildup against Enemies that are on Low Life",
     "Item1": "Despair",
     "Item2": "Guilt",
     "Item3": "Ire"
@@ -1010,7 +1010,7 @@
   {
     "Name": "Vulgar Methods",
     "URL": "https://poe2db.tw/us/Vulgar_Methods",
-    "Description": "10% reduced maximum Mana +10 to Strength 35% increased Critical Hit Chance",
+    "Description": "10% reduced maximum Mana\n\n+10 to Strength\n\n35% increased Critical Hit Chance",
     "Item1": "Ire",
     "Item2": "Guilt",
     "Item3": "Despair"
@@ -1018,7 +1018,7 @@
   {
     "Name": "Towering Shield",
     "URL": "https://poe2db.tw/us/Towering_Shield",
-    "Description": "50% increased Defences from Equipped Shield 25% increased Chance to Block if you've Blocked with Active Block Recently",
+    "Description": "50% increased Defences from Equipped Shield\n\n25% increased Chance to Block if you've Blocked with Active Block Recently",
     "Item1": "Ire",
     "Item2": "Despair",
     "Item3": "Guilt"
@@ -1026,7 +1026,7 @@
   {
     "Name": "Mana Blessing",
     "URL": "https://poe2db.tw/us/Mana_Blessing",
-    "Description": "+20 to maximum Mana 5% increased maximum Mana",
+    "Description": "+20 to maximum Mana\n\n5% increased maximum Mana",
     "Item1": "Guilt",
     "Item2": "Despair",
     "Item3": "Guilt"
@@ -1058,7 +1058,7 @@
   {
     "Name": "Clean Shot",
     "URL": "https://poe2db.tw/us/Clean_Shot",
-    "Description": "15% chance to Pierce an Enemy 15% increased Projectile Damage",
+    "Description": "15% chance to Pierce an Enemy\n\n15% increased Projectile Damage",
     "Item1": "Despair",
     "Item2": "Ire",
     "Item3": "Greed"
@@ -1082,7 +1082,7 @@
   {
     "Name": "Tainted Strike",
     "URL": "https://poe2db.tw/us/Tainted_Strike",
-    "Description": "25% increased Critical Hit Chance for Attacks 30% increased Magnitude of Non-Damaging Ailments you inflict with Critical Hits",
+    "Description": "25% increased Critical Hit Chance for Attacks\n\n30% increased Magnitude of Non-Damaging Ailments you inflict with Critical Hits",
     "Item1": "Ire",
     "Item2": "Despair",
     "Item3": "Greed"
@@ -1098,7 +1098,7 @@
   {
     "Name": "Erraticism",
     "URL": "https://poe2db.tw/us/Erraticism",
-    "Description": "16% increased Cast Speed if you've dealt a Critical Hit Recently 10% reduced Critical Hit Chance",
+    "Description": "16% increased Cast Speed if you've dealt a Critical Hit Recently\n\n10% reduced Critical Hit Chance",
     "Item1": "Despair",
     "Item2": "Greed",
     "Item3": "Guilt"
@@ -1106,7 +1106,7 @@
   {
     "Name": "Way of the Wind",
     "URL": "https://poe2db.tw/us/Way_of_the_Wind",
-    "Description": "25% increased Evasion if you have Hit an Enemy Recently 50% increased maximum Dash Distance with UnarmedAttack Skills",
+    "Description": "25% increased Evasion if you have Hit an Enemy Recently\n\n50% increased maximum Dash Distance with Unarmed Attack Skills",
     "Item1": "Guilt",
     "Item2": "Greed",
     "Item3": "Despair"
@@ -1114,7 +1114,7 @@
   {
     "Name": "Flow Like Water",
     "URL": "https://poe2db.tw/us/Flow_Like_Water",
-    "Description": "8% increased Attack and Cast Speed +5 to Dexterity and Intelligence",
+    "Description": "8% increased Attack and Cast Speed\n\n+5 to Dexterity and Intelligence",
     "Item1": "Greed",
     "Item2": "Guilt",
     "Item3": "Despair"
@@ -1122,7 +1122,7 @@
   {
     "Name": "Cautious Concoctions",
     "URL": "https://poe2db.tw/us/Cautious_Concoctions",
-    "Description": "15% increased Flask Effect Duration 15% increased Flask Charges gained",
+    "Description": "15% increased Flask Effect Duration\n\n15% increased Flask Charges gained",
     "Item1": "Disgust",
     "Item2": "Paranoia",
     "Item3": "Disgust"
@@ -1138,7 +1138,7 @@
   {
     "Name": "Blurred Motion",
     "URL": "https://poe2db.tw/us/Blurred_Motion",
-    "Description": "5% increased Attack Speed 10% increased Accuracy Rating 5% increased Dexterity",
+    "Description": "5% increased Attack Speed\n\n10% increased Accuracy Rating\n\n5% increased Dexterity",
     "Item1": "Despair",
     "Item2": "Paranoia",
     "Item3": "Ire"
@@ -1146,7 +1146,7 @@
   {
     "Name": "Heartstopping",
     "URL": "https://poe2db.tw/us/Heartstopping",
-    "Description": "+10 to Intelligence 25% increased Critical Hit Chance",
+    "Description": "+10 to Intelligence\n\n25% increased Critical Hit Chance",
     "Item1": "Ire",
     "Item2": "Despair",
     "Item3": "Paranoia"
@@ -1154,7 +1154,7 @@
   {
     "Name": "Heart Tissue",
     "URL": "https://poe2db.tw/us/Heart_Tissue",
-    "Description": "6% of Damage taken Recouped as Life Regenerate 0.4% of Life per second if you have been Hit Recently",
+    "Description": "6% of Damage taken Recouped as Life\n\nRegenerate 0.4% of Life per second if you have been Hit Recently",
     "Item1": "Paranoia",
     "Item2": "Despair",
     "Item3": "Ire"
@@ -1178,7 +1178,7 @@
   {
     "Name": "Internal Bleeding",
     "URL": "https://poe2db.tw/us/Internal_Bleeding",
-    "Description": "20% chance to Aggravate Bleeding on targets you Hit with Empowered Attacks Empowered Attacks deal 30% increased Damage",
+    "Description": "20% chance to Aggravate Bleeding on targets you Hit with Empowered Attacks\n\nEmpowered Attacks deal 30% increased Damage",
     "Item1": "Guilt",
     "Item2": "Despair",
     "Item3": "Paranoia"
@@ -1186,7 +1186,7 @@
   {
     "Name": "Titanic",
     "URL": "https://poe2db.tw/us/Titanic",
-    "Description": "30% increased Stun Buildup 30% increased Stun Threshold 5% increased Strength",
+    "Description": "30% increased Stun Buildup\n\n30% increased Stun Threshold\n\n5% increased Strength",
     "Item1": "Despair",
     "Item2": "Paranoia",
     "Item3": "Guilt"
@@ -1194,7 +1194,7 @@
   {
     "Name": "Polished Iron",
     "URL": "https://poe2db.tw/us/Polished_Iron",
-    "Description": "25% increased Armour 50% of Base Armour from Equipment also added to Stun Threshold",
+    "Description": "25% increased Armour\n\n50% of Base Armour from Equipment also added to Stun Threshold",
     "Item1": "Paranoia",
     "Item2": "Guilt",
     "Item3": "Despair"
@@ -1202,7 +1202,7 @@
   {
     "Name": "Shatter Palm",
     "URL": "https://poe2db.tw/us/Shatter_Palm",
-    "Description": "30% increased Stun Buildup 30% increased Daze Buildup",
+    "Description": "30% increased Stun Buildup\n\n30% increased Daze Buildup",
     "Item1": "Greed",
     "Item2": "Despair",
     "Item3": "Paranoia"
@@ -1218,7 +1218,7 @@
   {
     "Name": "Covering Ward",
     "URL": "https://poe2db.tw/us/Covering_Ward",
-    "Description": "25% increased Energy Shield Recharge Rate Gain 20Energy Shield when you Block",
+    "Description": "25% increased Energy Shield Recharge Rate\n\nGain 20 Energy Shield when you Block",
     "Item1": "Paranoia",
     "Item2": "Despair",
     "Item3": "Greed"
@@ -1226,7 +1226,7 @@
   {
     "Name": "Stupefy",
     "URL": "https://poe2db.tw/us/Stupefy",
-    "Description": "25% increased Critical Hit Chance against Dazed Enemies 25% increased Damage against Dazed Enemies 25% increased Daze Buildup",
+    "Description": "25% increased Critical Hit Chance against Dazed Enemies\n\n25% increased Damage against Dazed Enemies\n\n25% increased Daze Buildup",
     "Item1": "Paranoia",
     "Item2": "Despair",
     "Item3": "Paranoia"
@@ -1234,7 +1234,7 @@
   {
     "Name": "Thunderstruck",
     "URL": "https://poe2db.tw/us/Thunderstruck",
-    "Description": "50% increased Electrocute Buildup against Shocked Enemies 50% increased Shock Chance against Electrocuted Enemies",
+    "Description": "50% increased Electrocute Buildup against Shocked Enemies\n\n50% increased Shock Chance against Electrocuted Enemies",
     "Item1": "Despair",
     "Item2": "Paranoia",
     "Item3": "Paranoia"
@@ -1242,7 +1242,7 @@
   {
     "Name": "Mass Hysteria",
     "URL": "https://poe2db.tw/us/Mass_Hysteria",
-    "Description": "Allies in your Presence have 6% increased Attack Speed 6% increased Attack Speed",
+    "Description": "Allies in your Presence have 6% increased Attack Speed\n\n6% increased Attack Speed",
     "Item1": "Disgust",
     "Item2": "Disgust",
     "Item3": "Envy"
@@ -1250,7 +1250,7 @@
   {
     "Name": "Hale Traveller",
     "URL": "https://poe2db.tw/us/Hale_Traveller",
-    "Description": "20% increased Life Recovery from Flasks Life Flasks gain 0.1 charges per Second",
+    "Description": "20% increased Life Recovery from Flasks\n\nLife Flasks gain 0.1 charges per Second",
     "Item1": "Envy",
     "Item2": "Disgust",
     "Item3": "Disgust"
@@ -1258,7 +1258,7 @@
   {
     "Name": "Reaving",
     "URL": "https://poe2db.tw/us/Reaving",
-    "Description": "8% increased Attack Speed with One Handed Weapons +15 to Dexterity",
+    "Description": "8% increased Attack Speed with One Handed Weapons\n\n+15 to Dexterity",
     "Item1": "Despair",
     "Item2": "Ire",
     "Item3": "Envy"
@@ -1282,7 +1282,7 @@
   {
     "Name": "Full Recovery",
     "URL": "https://poe2db.tw/us/Full_Recovery",
-    "Description": "15% increased Life Regeneration rate 15% increased Mana Regeneration Rate",
+    "Description": "15% increased Life Regeneration rate\n\n15% increased Mana Regeneration Rate",
     "Item1": "Despair",
     "Item2": "Envy",
     "Item3": "Guilt"
@@ -1290,7 +1290,7 @@
   {
     "Name": "Flow State",
     "URL": "https://poe2db.tw/us/Flow_State",
-    "Description": "5% increased Skill Speed 15% increased Mana Regeneration Rate",
+    "Description": "5% increased Skill Speed\n\n15% increased Mana Regeneration Rate",
     "Item1": "Despair",
     "Item2": "Guilt",
     "Item3": "Envy"
@@ -1298,7 +1298,7 @@
   {
     "Name": "Barbaric Strength",
     "URL": "https://poe2db.tw/us/Barbaric_Strength",
-    "Description": "45% increased Critical Damage Bonus 10% increased Mana Cost of Skills +10 to Strength",
+    "Description": "45% increased Critical Damage Bonus\n\n10% increased Mana Cost of Skills\n\n+10 to Strength",
     "Item1": "Guilt",
     "Item2": "Despair",
     "Item3": "Envy"
@@ -1322,7 +1322,7 @@
   {
     "Name": "Raw Power",
     "URL": "https://poe2db.tw/us/Raw_Power",
-    "Description": "20% increased Spell Damage +10 to Intelligence Witch: 16% increased Spell Damage Witch: Minions deal 16% increased Damage Witch: +10 to Intelligence",
+    "Description": "20% increased Spell Damage\n\n+10 to Intelligence\n\nWitch: 16% increased Spell Damage Witch: Minions deal 16% increased Damage Witch: +10 to Intelligence",
     "Item1": "Greed",
     "Item2": "Envy",
     "Item3": "Despair"
@@ -1330,7 +1330,7 @@
   {
     "Name": "Cruel Fate",
     "URL": "https://poe2db.tw/us/Cruel_Fate",
-    "Description": "20% increased Critical Damage Bonus 20% increased Magnitude of Non-Damaging Ailments you inflict with Critical Hits",
+    "Description": "20% increased Critical Damage Bonus\n\n20% increased Magnitude of Non-Damaging Ailments you inflict with Critical Hits",
     "Item1": "Envy",
     "Item2": "Greed",
     "Item3": "Despair"
@@ -1338,7 +1338,7 @@
   {
     "Name": "Reinforced Barrier",
     "URL": "https://poe2db.tw/us/Reinforced_Barrier",
-    "Description": "20% increased maximum Energy Shield Defend with 120% of Armour while not on Low Energy Shield",
+    "Description": "20% increased maximum Energy Shield\n\nDefend with 120% of Armour while not on Low Energy Shield",
     "Item1": "Despair",
     "Item2": "Greed",
     "Item3": "Envy"
@@ -1346,7 +1346,7 @@
   {
     "Name": "Honed Instincts",
     "URL": "https://poe2db.tw/us/Honed_Instincts",
-    "Description": "8% increased Projectile Speed 8% increased Attack Speed +10 to Dexterity",
+    "Description": "8% increased Projectile Speed\n\n8% increased Attack Speed\n\n+10 to Dexterity",
     "Item1": "Despair",
     "Item2": "Envy",
     "Item3": "Paranoia"
@@ -1354,7 +1354,7 @@
   {
     "Name": "Reverberating Impact",
     "URL": "https://poe2db.tw/us/Reverberating_Impact",
-    "Description": "Break 25% increased Armour 16% increased Area of Effect for Attacks",
+    "Description": "Break 25% increased Armour\n\n16% increased Area of Effect for Attacks",
     "Item1": "Envy",
     "Item2": "Paranoia",
     "Item3": "Despair"
@@ -1362,7 +1362,7 @@
   {
     "Name": "Austerity Measures",
     "URL": "https://poe2db.tw/us/Austerity_Measures",
-    "Description": "+5 to all Attributes Gain 20% of maximum Energy Shield as additional Stun Threshold",
+    "Description": "+5 to all Attributes\n\nGain 20% of maximum Energy Shield as additional Stun Threshold",
     "Item1": "Paranoia",
     "Item2": "Envy",
     "Item3": "Despair"
@@ -1370,7 +1370,7 @@
   {
     "Name": "Ancient Aegis",
     "URL": "https://poe2db.tw/us/Ancient_Aegis",
-    "Description": "60% increased Armour from Equipped Body Armour 60% increased Energy Shield from Equipped Body Armour",
+    "Description": "60% increased Armour from Equipped Body Armour\n\n60% increased Energy Shield from Equipped Body Armour",
     "Item1": "Despair",
     "Item2": "Paranoia",
     "Item3": "Envy"
@@ -1378,7 +1378,7 @@
   {
     "Name": "Devoted Protector",
     "URL": "https://poe2db.tw/us/Devoted_Protector",
-    "Description": "10% increased Mana Regeneration Rate Regenerate 0.5% of Life per second +5 to Strength and Intelligence",
+    "Description": "10% increased Mana Regeneration Rate\n\nRegenerate 0.5% of Life per second\n\n+5 to Strength and Intelligence",
     "Item1": "Despair",
     "Item2": "Envy",
     "Item3": "Envy"
@@ -1386,7 +1386,7 @@
   {
     "Name": "Blade Flurry",
     "URL": "https://poe2db.tw/us/Blade_Flurry",
-    "Description": "6% increased Attack Speed while Dual Wielding 15% increased AttackCritical Hit Chance while Dual Wielding",
+    "Description": "6% increased Attack Speed while Dual Wielding\n\n15% increased Attack Critical Hit Chance while Dual Wielding",
     "Item1": "Envy",
     "Item2": "Envy",
     "Item3": "Despair"
@@ -1394,7 +1394,7 @@
   {
     "Name": "Breaking Blows",
     "URL": "https://poe2db.tw/us/Breaking_Blows",
-    "Description": "30% increased Stun Buildup 15% increased Area of Effect if you have Stunned an Enemy Recently",
+    "Description": "30% increased Stun Buildup\n\n15% increased Area of Effect if you have Stunned an Enemy Recently",
     "Item1": "Disgust",
     "Item2": "Disgust",
     "Item3": "Disgust"
@@ -1402,7 +1402,7 @@
   {
     "Name": "Personal Touch",
     "URL": "https://poe2db.tw/us/Personal_Touch",
-    "Description": "20% increased Melee Damage 25% increased Melee Damage against Immobilised Enemies",
+    "Description": "20% increased Melee Damage\n\n25% increased Melee Damage against Immobilised Enemies",
     "Item1": "Disgust",
     "Item2": "Despair",
     "Item3": "Ire"
@@ -1418,7 +1418,7 @@
   {
     "Name": "Desperate Times",
     "URL": "https://poe2db.tw/us/Desperate_Times",
-    "Description": "Regenerate 1.5% of Life per second while on Low Life 40% increased Life Recovery from Flasks used when on Low Life",
+    "Description": "Regenerate 1.5% of Life per second while on Low Life\n\n40% increased Life Recovery from Flasks used when on Low Life",
     "Item1": "Despair",
     "Item2": "Disgust",
     "Item3": "Ire"
@@ -1434,7 +1434,7 @@
   {
     "Name": "Spiked Armour",
     "URL": "https://poe2db.tw/us/Spiked_Armour",
-    "Description": "Gain PhysicalThorns damage equal to 2% of Armour from equipped Body Armour",
+    "Description": "Gain Physical Thorns damage equal to 2% of Armour from equipped Body Armour",
     "Item1": "Despair",
     "Item2": "Guilt",
     "Item3": "Disgust"
@@ -1442,7 +1442,7 @@
   {
     "Name": "Protraction",
     "URL": "https://poe2db.tw/us/Protraction",
-    "Description": "20% increased Skill Effect Duration 15% increased Duration of Damaging Ailments on Enemies",
+    "Description": "20% increased Skill Effect Duration\n\n15% increased Duration of Damaging Ailments on Enemies",
     "Item1": "Despair",
     "Item2": "Disgust",
     "Item3": "Guilt"
@@ -1498,7 +1498,7 @@
   {
     "Name": "Repulsion",
     "URL": "https://poe2db.tw/us/Repulsion",
-    "Description": "Area Skills have 20% chance to Knock Enemies Back on Hit 20% increased Spell Area Damage",
+    "Description": "Area Skills have 20% chance to Knock Enemies Back on Hit\n\n20% increased Spell Area Damage",
     "Item1": "Disgust",
     "Item2": "Paranoia",
     "Item3": "Despair"
@@ -1506,7 +1506,7 @@
   {
     "Name": "Deadly Swarm",
     "URL": "https://poe2db.tw/us/Deadly_Swarm",
-    "Description": "Minions deal 15% increased Damage Minions have 20% increased Critical Hit Chance",
+    "Description": "Minions deal 15% increased Damage\n\nMinions have 20% increased Critical Hit Chance",
     "Item1": "Paranoia",
     "Item2": "Despair",
     "Item3": "Disgust"
@@ -1514,7 +1514,7 @@
   {
     "Name": "Frazzled",
     "URL": "https://poe2db.tw/us/Frazzled",
-    "Description": "15% increased Mana Regeneration Rate 30% increased Magnitude of Shock you inflict",
+    "Description": "15% increased Mana Regeneration Rate\n\n30% increased Magnitude of Shock you inflict",
     "Item1": "Despair",
     "Item2": "Disgust",
     "Item3": "Paranoia"
@@ -1530,7 +1530,7 @@
   {
     "Name": "Pinned Down",
     "URL": "https://poe2db.tw/us/Pinned_Down",
-    "Description": "Enemies are Maimed for 4 seconds after becoming Unpinned 40% increased Pin Buildup",
+    "Description": "Enemies are Maimed for 4 seconds after becoming Unpinned\n\n40% increased Pin Buildup",
     "Item1": "Disgust",
     "Item2": "Despair",
     "Item3": "Envy"
@@ -1538,7 +1538,7 @@
   {
     "Name": "Locked On",
     "URL": "https://poe2db.tw/us/Locked_On",
-    "Description": "15% increased Critical Hit Chance for Attacks 15% increased Accuracy Rating",
+    "Description": "15% increased Critical Hit Chance for Attacks\n\n15% increased Accuracy Rating",
     "Item1": "Despair",
     "Item2": "Disgust",
     "Item3": "Envy"
@@ -1546,7 +1546,7 @@
   {
     "Name": "Overwhelming Strike",
     "URL": "https://poe2db.tw/us/Overwhelming_Strike",
-    "Description": "20% increased Critical Hit Chance for Attacks 20% increased Critical Damage Bonus for Attack Damage 20% increased Stun Buildup with Critical Hits",
+    "Description": "20% increased Critical Hit Chance for Attacks\n\n20% increased Critical Damage Bonus for Attack Damage\n\n20% increased Stun Buildup with Critical Hits",
     "Item1": "Despair",
     "Item2": "Envy",
     "Item3": "Disgust"
@@ -1554,7 +1554,7 @@
   {
     "Name": "Staunching",
     "URL": "https://poe2db.tw/us/Staunching",
-    "Description": "Life Flasks gain 0.1 charges per Second +10 to Strength",
+    "Description": "Life Flasks gain 0.1 charges per Second\n\n+10 to Strength",
     "Item1": "Envy",
     "Item2": "Despair",
     "Item3": "Disgust"
@@ -1562,7 +1562,7 @@
   {
     "Name": "Pin and Run",
     "URL": "https://poe2db.tw/us/Pin_and_Run",
-    "Description": "30% increased Pin Buildup 5% increased Movement Speed if you've Pinned an Enemy Recently",
+    "Description": "30% increased Pin Buildup\n\n5% increased Movement Speed if you've Pinned an Enemy Recently",
     "Item1": "Disgust",
     "Item2": "Despair",
     "Item3": "Disgust"
@@ -1570,7 +1570,7 @@
   {
     "Name": "Hallowed",
     "URL": "https://poe2db.tw/us/Hallowed",
-    "Description": "20% increased Stun Recovery Gain 20% of maximum Energy Shield as additional Stun Threshold",
+    "Description": "20% increased Stun Recovery\n\nGain 20% of maximum Energy Shield as additional Stun Threshold",
     "Item1": "Despair",
     "Item2": "Disgust",
     "Item3": "Disgust"
@@ -1578,7 +1578,7 @@
   {
     "Name": "Step Like Mist",
     "URL": "https://poe2db.tw/us/Step_Like_Mist",
-    "Description": "4% increased Movement Speed 15% increased Mana Regeneration Rate +5 to Dexterity and Intelligence",
+    "Description": "4% increased Movement Speed\n\n15% increased Mana Regeneration Rate\n\n+5 to Dexterity and Intelligence",
     "Item1": "Despair",
     "Item2": "Despair",
     "Item3": "Ire"
@@ -1586,7 +1586,7 @@
   {
     "Name": "Reprisal",
     "URL": "https://poe2db.tw/us/Reprisal",
-    "Description": "Attack Skills deal 25% increased Damage while holding a Shield 75% increased Evasion from Equipped Shield",
+    "Description": "Attack Skills deal 25% increased Damage while holding a Shield\n\n75% increased Evasion from Equipped Shield",
     "Item1": "Ire",
     "Item2": "Despair",
     "Item3": "Despair"
@@ -1594,7 +1594,7 @@
   {
     "Name": "Shadow Dancing",
     "URL": "https://poe2db.tw/us/Shadow_Dancing",
-    "Description": "30% increased Evasion Rating if you have been Hit Recently 60% faster start of Energy Shield Recharge if you've been StunnedRecently",
+    "Description": "30% increased Evasion Rating if you have been Hit Recently\n\n60% faster start of Energy Shield Recharge if you've been Stunned Recently",
     "Item1": "Despair",
     "Item2": "Guilt",
     "Item3": "Despair"
@@ -1602,7 +1602,7 @@
   {
     "Name": "Relentless",
     "URL": "https://poe2db.tw/us/Relentless",
-    "Description": "15% increased Armour Regenerate 0.5% of Life per second +10 to Strength",
+    "Description": "15% increased Armour\n\nRegenerate 0.5% of Life per second +10 to Strength",
     "Item1": "Despair",
     "Item2": "Despair",
     "Item3": "Greed"
@@ -1610,7 +1610,7 @@
   {
     "Name": "Hardened Wood",
     "URL": "https://poe2db.tw/us/Hardened_Wood",
-    "Description": "Totems gain +20% to all Elemental Resistances Totems have 20% additional Physical Damage Reduction",
+    "Description": "Totems gain +20% to all Elemental Resistances\n\nTotems have 20% additional Physical Damage Reduction",
     "Item1": "Despair",
     "Item2": "Greed",
     "Item3": "Despair"
@@ -1626,7 +1626,7 @@
   {
     "Name": "Hunker Down",
     "URL": "https://poe2db.tw/us/Hunker_Down",
-    "Description": "Recover 20 Life when you Block 80% less Knockback Distance for BlockedHits",
+    "Description": "Recover 20 Life when you Block\n\n80% less Knockback Distance for Blocked Hits",
     "Item1": "Despair",
     "Item2": "Despair",
     "Item3": "Paranoia"
@@ -1634,7 +1634,7 @@
   {
     "Name": "Escape Strategy",
     "URL": "https://poe2db.tw/us/Escape_Strategy",
-    "Description": "100% increased Evasion Rating if you have been Hit Recently 30% reduced Evasion Rating if you haven't been Hit Recently",
+    "Description": "100% increased Evasion Rating if you have been Hit Recently\n\n30% reduced Evasion Rating if you haven't been Hit Recently",
     "Item1": "Despair",
     "Item2": "Paranoia",
     "Item3": "Despair"
@@ -1642,7 +1642,7 @@
   {
     "Name": "Brutal",
     "URL": "https://poe2db.tw/us/Brutal",
-    "Description": "10% increased Stun Buildup 16% increased Melee Damage +10 to Strength",
+    "Description": "10% increased Stun Buildup\n\n16% increased Melee Damage\n\n+10 to Strength",
     "Item1": "Despair",
     "Item2": "Despair",
     "Item3": "Envy"
@@ -1658,7 +1658,7 @@
   {
     "Name": "Lasting Concoctions",
     "URL": "https://poe2db.tw/us/Lasting_Concoctions",
-    "Description": "25% increased Flask Effect Duration 25% increased Flask Charges gained",
+    "Description": "25% increased Flask Effect Duration\n\n25% increased Flask Charges gained",
     "Item1": "Despair",
     "Item2": "Disgust",
     "Item3": "Despair"
@@ -1666,7 +1666,7 @@
   {
     "Name": "Parrying Motion",
     "URL": "https://poe2db.tw/us/Parrying_Motion",
-    "Description": "12% increased Block chance 1% increased Movement Speed for each time you've Blocked in the past 10 seconds",
+    "Description": "12% increased Block chance\n\n1% increased Movement Speed for each time you've Blocked in the past 10 seconds",
     "Item1": "Ire",
     "Item2": "Fear",
     "Item3": "Ire"
@@ -1690,7 +1690,7 @@
   {
     "Name": "Honourless",
     "URL": "https://poe2db.tw/us/Honourless",
-    "Description": "25% increased Armour if you've Hit an Enemy with a Melee Attack Recently 50% increased Melee Damage against Immobilised Enemies",
+    "Description": "25% increased Armour if you've Hit an Enemy with a Melee Attack Recently\n\n50% increased Melee Damage against Immobilised Enemies",
     "Item1": "Ire",
     "Item2": "Guilt",
     "Item3": "Fear"
@@ -1722,7 +1722,7 @@
   {
     "Name": "Spirit Bond",
     "URL": "https://poe2db.tw/us/Spirit_Bond",
-    "Description": "30% increased Totem Life 30% increased Totem Duration",
+    "Description": "30% increased Totem Life\n\n30% increased Totem Duration",
     "Item1": "Greed",
     "Item2": "Ire",
     "Item3": "Fear"
@@ -1730,7 +1730,7 @@
   {
     "Name": "Rattled",
     "URL": "https://poe2db.tw/us/Rattled",
-    "Description": "+20 to maximum Mana 50% increased Shock Duration",
+    "Description": "+20 to maximum Mana\n\n50% increased Shock Duration",
     "Item1": "Greed",
     "Item2": "Fear",
     "Item3": "Ire"
@@ -1746,7 +1746,7 @@
   {
     "Name": "Colossal Weapon",
     "URL": "https://poe2db.tw/us/Colossal_Weapon",
-    "Description": "15% increased Area of Effect for Attacks +10 to Strength",
+    "Description": "15% increased Area of Effect for Attacks\n\n+10 to Strength",
     "Item1": "Fear",
     "Item2": "Greed",
     "Item3": "Ire"
@@ -1770,7 +1770,7 @@
   {
     "Name": "Tenfold Attacks",
     "URL": "https://poe2db.tw/us/Tenfold_Attacks",
-    "Description": "4% increased Attack Speed 6% increased Attack Speed if you've been Hit Recently +10 to Strength",
+    "Description": "4% increased Attack Speed\n\n6% increased Attack Speed if you've been Hit Recently\n\n+10 to Strength",
     "Item1": "Greed",
     "Item2": "Fear",
     "Item3": "Guilt"
@@ -1778,7 +1778,7 @@
   {
     "Name": "Mystic Stance",
     "URL": "https://poe2db.tw/us/Mystic_Stance",
-    "Description": "30% faster start of Energy Shield Recharge 30% increased Stun Threshold while on Full Life",
+    "Description": "30% faster start of Energy Shield Recharge\n\n30% increased Stun Threshold while on Full Life",
     "Item1": "Fear",
     "Item2": "Greed",
     "Item3": "Guilt"
@@ -1786,7 +1786,7 @@
   {
     "Name": "First Approach",
     "URL": "https://poe2db.tw/us/First_Approach",
-    "Description": "50% increased Critical Hit Chance against Enemies on Full Life Cannot be Blinded while on Full Life 80% increased Damage with Hits against Enemies that are on Full Life",
+    "Description": "50% increased Critical Hit Chance against Enemies on Full Life\n\nCannot be Blinded while on Full Life\n\n80% increased Damage with Hits against Enemies that are on Full Life",
     "Item1": "Paranoia",
     "Item2": "Ire",
     "Item3": "Fear"
@@ -1794,7 +1794,7 @@
   {
     "Name": "Mind Eraser",
     "URL": "https://poe2db.tw/us/Mind_Eraser",
-    "Description": "10% increased Mana Regeneration Rate 6% of Damage taken Recouped as Mana",
+    "Description": "10% increased Mana Regeneration Rate\n\n6% of Damage taken Recouped as Mana",
     "Item1": "Fear",
     "Item2": "Ire",
     "Item3": "Paranoia"
@@ -1818,7 +1818,7 @@
   {
     "Name": "Unstoppable Barrier",
     "URL": "https://poe2db.tw/us/Unstoppable_Barrier",
-    "Description": "10% increased Block chance 15% reduced Slowing Potency of Debuffs on You",
+    "Description": "10% increased Block chance\n\n15% reduced Slowing Potency of Debuffs on You",
     "Item1": "Fear",
     "Item2": "Paranoia",
     "Item3": "Ire"
@@ -1826,7 +1826,7 @@
   {
     "Name": "Curved Weapon",
     "URL": "https://poe2db.tw/us/Curved_Weapon",
-    "Description": "15% increased Accuracy Rating +10 to Dexterity",
+    "Description": "15% increased Accuracy Rating\n\n+10 to Dexterity",
     "Item1": "Greed",
     "Item2": "Fear",
     "Item3": "Greed"
@@ -1842,7 +1842,7 @@
   {
     "Name": "Growing Swarm",
     "URL": "https://poe2db.tw/us/Growing_Swarm",
-    "Description": "Minions have 20% increased Area of Effect Minions have 20% increased Cooldown Recovery Rate",
+    "Description": "Minions have 20% increased Area of Effect\n\nMinions have 20% increased Cooldown Recovery Rate",
     "Item1": "Guilt",
     "Item2": "Paranoia",
     "Item3": "Fear"
@@ -1858,7 +1858,7 @@
   {
     "Name": "Essence of the Storm",
     "URL": "https://poe2db.tw/us/Essence_of_the_Storm",
-    "Description": "Gain5% of Damage as Extra Lightning Damage 30% increased chance to Shock",
+    "Description": "Gain 5% of Damage as Extra Lightning Damage\n\n30% increased chance to Shock",
     "Item1": "Greed",
     "Item2": "Fear",
     "Item3": "Paranoia"
@@ -1866,7 +1866,7 @@
   {
     "Name": "Fortifying Blood",
     "URL": "https://poe2db.tw/us/Fortifying_Blood",
-    "Description": "20% increased amount of Life Leeched 40% increased Armour and Evasion Rating while Leeching",
+    "Description": "20% increased amount of Life Leeched\n\n40% increased Armour and Evasion Rating while Leeching",
     "Item1": "Greed",
     "Item2": "Paranoia",
     "Item3": "Fear"
@@ -1874,7 +1874,7 @@
   {
     "Name": "Coated Arms",
     "URL": "https://poe2db.tw/us/Coated_Arms",
-    "Description": "25% increased Damage with One Handed Weapons 20% increased Chance to inflict Ailments with One-Handed Attacks",
+    "Description": "25% increased Damage with One Handed Weapons\n\n20% increased Chance to inflict Ailments with One-Handed Attacks",
     "Item1": "Fear",
     "Item2": "Greed",
     "Item3": "Paranoia"
@@ -1890,7 +1890,7 @@
   {
     "Name": "Thicket Warding",
     "URL": "https://poe2db.tw/us/Thicket_Warding",
-    "Description": "20% chance for Charms you use to not consume Charges Recover 5% of Mana when a Charm is used",
+    "Description": "20% chance for Charms you use to not consume Charges\n\nRecover 5% of Mana when a Charm is used",
     "Item1": "Paranoia",
     "Item2": "Fear",
     "Item3": "Paranoia"
@@ -1898,7 +1898,7 @@
   {
     "Name": "Manifold Method",
     "URL": "https://poe2db.tw/us/Manifold_Method",
-    "Description": "50% increased amount of Mana Leeched 25% increased chance to inflict Ailments against Rare or Unique Enemies",
+    "Description": "50% increased amount of Mana Leeched\n\n25% increased chance to inflict Ailments against Rare or Unique Enemies",
     "Item1": "Paranoia",
     "Item2": "Paranoia",
     "Item3": "Fear"
@@ -1906,7 +1906,7 @@
   {
     "Name": "Fireproof",
     "URL": "https://poe2db.tw/us/Fireproof",
-    "Description": "+15% to Fire Resistance 25% reduced effect of Ignite on you",
+    "Description": "+15% to Fire Resistance\n\n25% reduced effect of Ignite on you",
     "Item1": "Fear",
     "Item2": "Paranoia",
     "Item3": "Paranoia"
@@ -1922,7 +1922,7 @@
   {
     "Name": "Price of Freedom",
     "URL": "https://poe2db.tw/us/Price_of_Freedom",
-    "Description": "10% reduced Mana Cost of Attacks 18% of Skill Mana Costs Converted to Life Costs",
+    "Description": "10% reduced Mana Cost of Attacks\n\n18% of Skill Mana Costs Converted to Life Costs",
     "Item1": "Envy",
     "Item2": "Fear",
     "Item3": "Ire"
@@ -1930,7 +1930,7 @@
   {
     "Name": "Dependable Ward",
     "URL": "https://poe2db.tw/us/Dependable_Ward",
-    "Description": "25% increased Energy Shield Recharge Rate 25% faster start of Energy Shield Recharge",
+    "Description": "25% increased Energy Shield Recharge Rate\n\n25% faster start of Energy Shield Recharge",
     "Item1": "Ire",
     "Item2": "Fear",
     "Item3": "Envy"
@@ -1938,7 +1938,7 @@
   {
     "Name": "Enhanced Reflexes",
     "URL": "https://poe2db.tw/us/Enhanced_Reflexes",
-    "Description": "30% increased Evasion Rating 8% increased Dexterity",
+    "Description": "30% increased Evasion Rating\n\n8% increased Dexterity",
     "Item1": "Fear",
     "Item2": "Ire",
     "Item3": "Envy"
@@ -1954,7 +1954,7 @@
   {
     "Name": "Cold Nature",
     "URL": "https://poe2db.tw/us/Cold_Nature",
-    "Description": "25% increased Cold Damage 15% increased Chill Duration on Enemies",
+    "Description": "25% increased Cold Damage\n\n15% increased Chill Duration on Enemies",
     "Item1": "Envy",
     "Item2": "Fear",
     "Item3": "Guilt"
@@ -1962,7 +1962,7 @@
   {
     "Name": "Blade Catcher",
     "URL": "https://poe2db.tw/us/Blade_Catcher",
-    "Description": "Defend with 200% of Armour against Critical Hits +15 to Strength",
+    "Description": "Defend with 200% of Armour against Critical Hits\n\n+15 to Strength",
     "Item1": "Fear",
     "Item2": "Envy",
     "Item3": "Guilt"
@@ -1970,7 +1970,7 @@
   {
     "Name": "Breakage",
     "URL": "https://poe2db.tw/us/Breakage",
-    "Description": "Break 60% increased Armour 10% chance to Defend with 200% of Armour",
+    "Description": "Break 60% increased Armour\n\n10% chance to Defend with 200% of Armour",
     "Item1": "Fear",
     "Item2": "Envy",
     "Item3": "Greed"
@@ -1978,7 +1978,7 @@
   {
     "Name": "Mental Toughness",
     "URL": "https://poe2db.tw/us/Mental_Toughness",
-    "Description": "18% increased Mana Regeneration Rate 15% reduced Mana Cost while not on Low Mana",
+    "Description": "18% increased Mana Regeneration Rate\n\n15% reduced Mana Cost while not on Low Mana",
     "Item1": "Envy",
     "Item2": "Fear",
     "Item3": "Greed"
@@ -2002,7 +2002,7 @@
   {
     "Name": "Ancestral Mending",
     "URL": "https://poe2db.tw/us/Ancestral_Mending",
-    "Description": "Regenerate 1% of Life per second while you have a Totem Totems Regenerate 3% of Life per second",
+    "Description": "Regenerate 1% of Life per second while you have a Totem Totems\n\nRegenerate 3% of Life per second",
     "Item1": "Envy",
     "Item2": "Fear",
     "Item3": "Paranoia"
@@ -2010,7 +2010,7 @@
   {
     "Name": "Mental Alacrity",
     "URL": "https://poe2db.tw/us/Mental_Alacrity",
-    "Description": "5% increased Cast Speed 15% increased Mana Regeneration Rate +10 to Intelligence",
+    "Description": "5% increased Cast Speed\n\n15% increased Mana Regeneration Rate\n\n+10 to Intelligence",
     "Item1": "Fear",
     "Item2": "Envy",
     "Item3": "Paranoia"
@@ -2018,7 +2018,7 @@
   {
     "Name": "Generals Bindings",
     "URL": "https://poe2db.tw/us/Generals_Bindings",
-    "Description": "Gain8% of Evasion Rating as extra Armour",
+    "Description": "Gain 8% of Evasion Rating as extra Armour",
     "Item1": "Paranoia",
     "Item2": "Fear",
     "Item3": "Envy"
@@ -2026,7 +2026,7 @@
   {
     "Name": "Blinding Strike",
     "URL": "https://poe2db.tw/us/Blinding_Strike",
-    "Description": "24% increased Attack Damage 10% chance to Blind Enemies on Hit with Attacks",
+    "Description": "24% increased Attack Damage\n\n10% chance to Blind Enemies on Hit with Attacks",
     "Item1": "Envy",
     "Item2": "Fear",
     "Item3": "Envy"
@@ -2034,7 +2034,7 @@
   {
     "Name": "Sand in the Eyes",
     "URL": "https://poe2db.tw/us/Sand_in_the_Eyes",
-    "Description": "10% increased Attack Speed 15% chance to Blind Enemies on Hit with Attacks",
+    "Description": "10% increased Attack Speed\n\n15% chance to Blind Enemies on Hit with Attacks",
     "Item1": "Despair",
     "Item2": "Despair",
     "Item3": "Despair"
@@ -2042,7 +2042,7 @@
   {
     "Name": "Adrenaline Rush",
     "URL": "https://poe2db.tw/us/Adrenaline_Rush",
-    "Description": "4% increased Movement Speed if you've Killed Recently 8% increased Attack Speed if you've Killed Recently",
+    "Description": "4% increased Movement Speed if you've Killed Recently\n\n8% increased Attack Speed if you've Killed Recently",
     "Item1": "Disgust",
     "Item2": "Ire",
     "Item3": "Fear"
@@ -2058,7 +2058,7 @@
   {
     "Name": "Gravedigger",
     "URL": "https://poe2db.tw/us/Gravedigger",
-    "Description": "MinionsRevive15% faster You gain 2% Life when one of your Minions is Revived",
+    "Description": "Minions Revive 15% faster\n\nYou gain 2% Life when one of your Minions is Revived",
     "Item1": "Ire",
     "Item2": "Fear",
     "Item3": "Disgust"
@@ -2074,7 +2074,7 @@
   {
     "Name": "Pure Energy",
     "URL": "https://poe2db.tw/us/Pure_Energy",
-    "Description": "30% increased maximum Energy Shield +10 to Intelligence",
+    "Description": "30% increased maximum Energy Shield\n\n+10 to Intelligence",
     "Item1": "Fear",
     "Item2": "Guilt",
     "Item3": "Disgust"
@@ -2082,7 +2082,7 @@
   {
     "Name": "Stigmata",
     "URL": "https://poe2db.tw/us/Stigmata",
-    "Description": "Offerings have 30% increased Maximum Life Recover 3% of Life when you create an Offering",
+    "Description": "Offerings have 30% increased Maximum Life\n\nRecover 3% of Life when you create an Offering",
     "Item1": "Disgust",
     "Item2": "Guilt",
     "Item3": "Fear"
@@ -2090,7 +2090,7 @@
   {
     "Name": "Blood Rush",
     "URL": "https://poe2db.tw/us/Blood_Rush",
-    "Description": "6% increased Skill Speed 6% of Skill Mana Costs Converted to Life Costs",
+    "Description": "6% increased Skill Speed\n\n6% of Skill Mana Costs Converted to Life Costs",
     "Item1": "Guilt",
     "Item2": "Fear",
     "Item3": "Disgust"
@@ -2098,7 +2098,7 @@
   {
     "Name": "Insightfulness",
     "URL": "https://poe2db.tw/us/Insightfulness",
-    "Description": "18% increased maximum Energy Shield 12% increased Mana Regeneration Rate 6% increased Intelligence",
+    "Description": "18% increased maximum Energy Shield\n\n12% increased Mana Regeneration Rate\n\n6% increased Intelligence",
     "Item1": "Guilt",
     "Item2": "Disgust",
     "Item3": "Fear"
@@ -2114,7 +2114,7 @@
   {
     "Name": "Waters of Life",
     "URL": "https://poe2db.tw/us/Waters_of_Life",
-    "Description": "Recover 2% of Life when you use a Mana Flask Mana Flasks gain 0.1 charges per Second",
+    "Description": "Recover 2% of Life when you use a Mana Flask\n\nMana Flasks gain 0.1 charges per Second",
     "Item1": "Greed",
     "Item2": "Fear",
     "Item3": "Disgust"
@@ -2122,7 +2122,7 @@
   {
     "Name": "Explosive Impact",
     "URL": "https://poe2db.tw/us/Explosive_Impact",
-    "Description": "15% increased Area of Effect Burning Enemies you kill have a 5% chance to Explode, dealing a tenth of their maximum Life as Fire Damage",
+    "Description": "15% increased Area of Effect\n\nBurning Enemies you kill have a 5% chance to Explode, dealing a tenth of their maximum Life as Fire Damage",
     "Item1": "Greed",
     "Item2": "Disgust",
     "Item3": "Fear"
@@ -2130,7 +2130,7 @@
   {
     "Name": "Shield Expertise",
     "URL": "https://poe2db.tw/us/Shield_Expertise",
-    "Description": "12% increased Block chance 40% increased Block Recovery",
+    "Description": "12% increased Block chance\n\n40% increased Block Recovery",
     "Item1": "Disgust",
     "Item2": "Greed",
     "Item3": "Fear"
@@ -2138,7 +2138,7 @@
   {
     "Name": "Multitasking",
     "URL": "https://poe2db.tw/us/Multitasking",
-    "Description": "15% increased Skill Effect Duration 12% increased Cooldown Recovery Rate",
+    "Description": "15% increased Skill Effect Duration\n\n12% increased Cooldown Recovery Rate",
     "Item1": "Paranoia",
     "Item2": "Disgust",
     "Item3": "Fear"
@@ -2154,7 +2154,7 @@
   {
     "Name": "Sudden Escalation",
     "URL": "https://poe2db.tw/us/Sudden_Escalation",
-    "Description": "16% increased Critical Hit Chance for Spells 8% increased Cast Speed if you've dealt a Critical Hit Recently",
+    "Description": "16% increased Critical Hit Chance for Spells\n\n8% increased Cast Speed if you've dealt a Critical Hit Recently",
     "Item1": "Disgust",
     "Item2": "Paranoia",
     "Item3": "Fear"
@@ -2170,7 +2170,7 @@
   {
     "Name": "Acceleration",
     "URL": "https://poe2db.tw/us/Acceleration",
-    "Description": "3% increased Movement Speed 10% increased Skill Speed",
+    "Description": "3% increased Movement Speed\n\n10% increased Skill Speed",
     "Item1": "Fear",
     "Item2": "Envy",
     "Item3": "Disgust"
@@ -2178,7 +2178,7 @@
   {
     "Name": "Quick Response",
     "URL": "https://poe2db.tw/us/Quick_Response",
-    "Description": "20% faster start of Energy Shield Recharge 30% faster start of Energy Shield Recharge when not on Full Life",
+    "Description": "20% faster start of Energy Shield Recharge\n\n30% faster start of Energy Shield Recharge when not on Full Life",
     "Item1": "Envy",
     "Item2": "Disgust",
     "Item3": "Fear"
@@ -2186,7 +2186,7 @@
   {
     "Name": "Singular Purpose",
     "URL": "https://poe2db.tw/us/Singular_Purpose",
-    "Description": "5% reduced Attack Speed 20% increased Stun Buildup 40% increased Damage with Two Handed Weapons",
+    "Description": "5% reduced Attack Speed\n\n20% increased Stun Buildup\n\n40% increased Damage with Two Handed Weapons",
     "Item1": "Disgust",
     "Item2": "Envy",
     "Item3": "Fear"
@@ -2194,7 +2194,7 @@
   {
     "Name": "Burn Away",
     "URL": "https://poe2db.tw/us/Burn_Away",
-    "Description": "15% increased Fire Damage Damage Penetrates10% Fire Resistance 10% increased Magnitude of Ignite you inflict",
+    "Description": "15% increased Fire Damage\n\nDamage Penetrates 10% Fire Resistance\n\n10% increased Magnitude of Ignite you inflict",
     "Item1": "Fear",
     "Item2": "Disgust",
     "Item3": "Disgust"
@@ -2202,7 +2202,7 @@
   {
     "Name": "Bloodthirsty",
     "URL": "https://poe2db.tw/us/Bloodthirsty",
-    "Description": "20% increased amount of Life Leeched Leech Life 25% faster",
+    "Description": "20% increased amount of Life Leeched\n\nLeech Life 25% faster",
     "Item1": "Disgust",
     "Item2": "Disgust",
     "Item3": "Fear"
@@ -2210,7 +2210,7 @@
   {
     "Name": "Harsh Winter",
     "URL": "https://poe2db.tw/us/Harsh_Winter",
-    "Description": "8% increased Cast Speed with Cold Skills 16% increased Skill Effect Duration",
+    "Description": "8% increased Cast Speed with Cold Skills\n\n16% increased Skill Effect Duration",
     "Item1": "Fear",
     "Item2": "Despair",
     "Item3": "Ire"
@@ -2218,7 +2218,7 @@
   {
     "Name": "Dead can Dance",
     "URL": "https://poe2db.tw/us/Dead_can_Dance",
-    "Description": "Minions have 25% increased Evasion Rating Your Dexterity is added to your Minions",
+    "Description": "Minions have 25% increased Evasion Rating\n\nYour Dexterity is added to your Minions",
     "Item1": "Despair",
     "Item2": "Fear",
     "Item3": "Ire"
@@ -2226,7 +2226,7 @@
   {
     "Name": "Deep Trance",
     "URL": "https://poe2db.tw/us/Deep_Trance",
-    "Description": "8% increased Attack Speed 10% reduced Cost of Skills",
+    "Description": "8% increased Attack Speed\n\n10% reduced Cost of Skills",
     "Item1": "Fear",
     "Item2": "Ire",
     "Item3": "Despair"
@@ -2234,7 +2234,7 @@
   {
     "Name": "Projectile Bulwark",
     "URL": "https://poe2db.tw/us/Projectile_Bulwark",
-    "Description": "30% increased Armour Defend with 120% of Armour against Projectile Attacks",
+    "Description": "30% increased Armour\n\nDefend with 120% of Armour against Projectile Attacks",
     "Item1": "Ire",
     "Item2": "Fear",
     "Item3": "Despair"
@@ -2242,7 +2242,7 @@
   {
     "Name": "Wasting",
     "URL": "https://poe2db.tw/us/Wasting",
-    "Description": "15% increased Duration of Damaging Ailments on Enemies 30% increased Damage with Hits against Enemies affected by Ailments",
+    "Description": "15% increased Duration of Damaging Ailments on Enemies\n\n30% increased Damage with Hits against Enemies affected by Ailments",
     "Item1": "Guilt",
     "Item2": "Fear",
     "Item3": "Despair"
@@ -2258,7 +2258,7 @@
   {
     "Name": "Suffusion",
     "URL": "https://poe2db.tw/us/Suffusion",
-    "Description": "30% increased amount of Mana Leeched Unaffected by Chill while Leeching Mana",
+    "Description": "30% increased amount of Mana Leeched\n\nUnaffected by Chill while Leeching Mana",
     "Item1": "Fear",
     "Item2": "Despair",
     "Item3": "Guilt"
@@ -2282,7 +2282,7 @@
   {
     "Name": "Shattering",
     "URL": "https://poe2db.tw/us/Shattering",
-    "Description": "25% increased Freeze Buildup 15% increased Chill Duration on Enemies 15% increased Magnitude of Chill you inflict",
+    "Description": "25% increased Freeze Buildup\n\n15% increased Chill Duration on Enemies\n\n15% increased Magnitude of Chill you inflict",
     "Item1": "Greed",
     "Item2": "Fear",
     "Item3": "Despair"
@@ -2298,7 +2298,7 @@
   {
     "Name": "Heavy Frost",
     "URL": "https://poe2db.tw/us/Heavy_Frost",
-    "Description": "20% increased Freeze Buildup Hits ignore non-negative ElementalResistances of Frozen Enemies",
+    "Description": "20% increased Freeze Buildup\n\nHits ignore non-negative Elemental Resistances of Frozen Enemies",
     "Item1": "Despair",
     "Item2": "Fear",
     "Item3": "Paranoia"
@@ -2306,7 +2306,7 @@
   {
     "Name": "Harmonic Generator",
     "URL": "https://poe2db.tw/us/Harmonic_Generator",
-    "Description": "25% increased Critical Hit Chance against Shocked Enemies 40% increased Magnitude of Shock you inflict with Critical Hits",
+    "Description": "25% increased Critical Hit Chance against Shocked Enemies\n\n40% increased Magnitude of Shock you inflict with Critical Hits",
     "Item1": "Paranoia",
     "Item2": "Fear",
     "Item3": "Despair"
@@ -2314,7 +2314,7 @@
   {
     "Name": "Unbending",
     "URL": "https://poe2db.tw/us/Unbending",
-    "Description": "3% increased maximum Life 30% increased Stun Threshold",
+    "Description": "3% increased maximum Life\n\n30% increased Stun Threshold",
     "Item1": "Fear",
     "Item2": "Despair",
     "Item3": "Paranoia"
@@ -2322,7 +2322,7 @@
   {
     "Name": "Time Manipulation",
     "URL": "https://poe2db.tw/us/Time_Manipulation",
-    "Description": "Debuffs you inflict have 10% increased Slow Magnitude Debuffs on you expire 20% faster",
+    "Description": "Debuffs you inflict have 10% increased Slow Magnitude\n\nDebuffs on you expire 20% faster",
     "Item1": "Fear",
     "Item2": "Despair",
     "Item3": "Envy"
@@ -2338,7 +2338,7 @@
   {
     "Name": "Overwhelm",
     "URL": "https://poe2db.tw/us/Overwhelm",
-    "Description": "5% reduced Attack Speed 20% increased Stun Buildup 40% increased Damage with Two Handed Weapons",
+    "Description": "5% reduced Attack Speed\n\n20% increased Stun Buildup\n\n40% increased Damage with Two Handed Weapons",
     "Item1": "Despair",
     "Item2": "Fear",
     "Item3": "Envy"
@@ -2362,7 +2362,7 @@
   {
     "Name": "Restless Dead",
     "URL": "https://poe2db.tw/us/Restless_Dead",
-    "Description": "MinionsRevive25% faster",
+    "Description": "Minions Revive25% faster",
     "Item1": "Despair",
     "Item2": "Fear",
     "Item3": "Disgust"
@@ -2370,7 +2370,7 @@
   {
     "Name": "Chronomancy",
     "URL": "https://poe2db.tw/us/Chronomancy",
-    "Description": "20% increased Skill Effect Duration Debuffs you inflict have 10% increased Slow Magnitude",
+    "Description": "20% increased Skill Effect Duration\n\nDebuffs you inflict have 10% increased Slow Magnitude",
     "Item1": "Despair",
     "Item2": "Fear",
     "Item3": "Despair"
@@ -2378,7 +2378,7 @@
   {
     "Name": "Impact Force",
     "URL": "https://poe2db.tw/us/Impact_Force",
-    "Description": "20% increased Stun Buildup 25% increased Attack Area Damage",
+    "Description": "20% increased Stun Buildup\n\n25% increased Attack Area Damage",
     "Item1": "Fear",
     "Item2": "Ire",
     "Item3": "Fear"
@@ -2386,7 +2386,7 @@
   {
     "Name": "Path of Storms",
     "URL": "https://poe2db.tw/us/Path_of_Storms",
-    "Description": "18% increased Lightning Damage 30% increased chance to Shock Witch: 18% increased Chaos Damage Witch: 15% increased Skill Effect Duration",
+    "Description": "18% increased Lightning Damage\n\n30% increased chance to Shock Witch: 18% increased Chaos Damage Witch: 15% increased Skill Effect Duration",
     "Item1": "Fear",
     "Item2": "Fear",
     "Item3": "Ire"
@@ -2394,7 +2394,7 @@
   {
     "Name": "Rapid Strike",
     "URL": "https://poe2db.tw/us/Rapid_Strike",
-    "Description": "+30 to Accuracy Rating 8% increased Melee Attack Speed",
+    "Description": "+30 to Accuracy Rating\n\n8% increased Melee Attack Speed",
     "Item1": "Ire",
     "Item2": "Fear",
     "Item3": "Fear"
@@ -2402,7 +2402,7 @@
   {
     "Name": "Necrotised Flesh",
     "URL": "https://poe2db.tw/us/Necrotised_Flesh",
-    "Description": "Minions have 40% increased maximum Life Minions have 10% reduced Life Recovery rate",
+    "Description": "Minions have 40% increased maximum Life\n\nMinions have 10% reduced Life Recovery rate",
     "Item1": "Fear",
     "Item2": "Guilt",
     "Item3": "Fear"
@@ -2410,7 +2410,7 @@
   {
     "Name": "All Natural",
     "URL": "https://poe2db.tw/us/All_Natural",
-    "Description": "+5% to all ElementalResistances 30% increased Elemental Damage",
+    "Description": "+5% to all Elemental Resistances\n\n30% increased Elemental Damage",
     "Item1": "Fear",
     "Item2": "Fear",
     "Item3": "Greed"
@@ -2418,7 +2418,7 @@
   {
     "Name": "Vile Mending",
     "URL": "https://poe2db.tw/us/Vile_Mending",
-    "Description": "Minions have 20% increased maximum Life Minions Regenerate 3% of Life per second Minions have +13% to ChaosResistance",
+    "Description": "Minions have 20% increased maximum Life\n\nMinions Regenerate 3% of Life per second\n\nMinions have +13% to Chaos Resistance",
     "Item1": "Greed",
     "Item2": "Fear",
     "Item3": "Fear"
@@ -2426,7 +2426,7 @@
   {
     "Name": "Breaking Point",
     "URL": "https://poe2db.tw/us/Breaking_Point",
-    "Description": "10% increased Duration of Elemental Ailments on Enemies 30% increased Magnitude of Non-Damaging Ailments you inflict",
+    "Description": "10% increased Duration of Elemental Ailments on Enemies\n\n30% increased Magnitude of Non-Damaging Ailments you inflict",
     "Item1": "Fear",
     "Item2": "Paranoia",
     "Item3": "Fear"
@@ -2434,7 +2434,7 @@
   {
     "Name": "Primal Growth",
     "URL": "https://poe2db.tw/us/Primal_Growth",
-    "Description": "20% increased Area of Effect if you've Killed Recently 10% increased Area of Effect for Attacks",
+    "Description": "20% increased Area of Effect if you've Killed Recently\n\n10% increased Area of Effect for Attacks",
     "Item1": "Envy",
     "Item2": "Fear",
     "Item3": "Fear"
@@ -2442,7 +2442,7 @@
   {
     "Name": "Stormcharged",
     "URL": "https://poe2db.tw/us/Stormcharged",
-    "Description": "40% increased Elemental Damage if you've dealt a Critical Hit Recently 20% increased Critical Hit Chance",
+    "Description": "40% increased Elemental Damage if you've dealt a Critical Hit Recently\n\n20% increased Critical Hit Chance",
     "Item1": "Fear",
     "Item2": "Fear",
     "Item3": "Envy"
@@ -2474,7 +2474,7 @@
   {
     "Name": "Spellblade",
     "URL": "https://poe2db.tw/us/Spellblade",
-    "Description": "32% increased Spell Damage while wielding a Melee Weapon +10 to Dexterity",
+    "Description": "32% increased Spell Damage while wielding a Melee Weapon\n\n+10 to Dexterity",
     "Item1": "Despair",
     "Item2": "Fear",
     "Item3": "Fear"
@@ -2482,7 +2482,7 @@
   {
     "Name": "Alternating Current",
     "URL": "https://poe2db.tw/us/Alternating_Current",
-    "Description": "25% increased Mana Regeneration Rate if you have Shocked an Enemy Recently 20% increased Magnitude of Shock you inflict",
+    "Description": "25% increased Mana Regeneration Rate if you have Shocked an Enemy Recently\n\n20% increased Magnitude of Shock you inflict",
     "Item1": "Ire",
     "Item2": "Ire",
     "Item3": "Suffering"
@@ -2490,7 +2490,7 @@
   {
     "Name": "Guts",
     "URL": "https://poe2db.tw/us/Guts",
-    "Description": "Recover 3% of Life for each Endurance Charge consumed +1 to Maximum Endurance Charges",
+    "Description": "Recover 3% of Life for each Endurance Charge consumed\n\n+1 to Maximum Endurance Charges",
     "Item1": "Suffering",
     "Item2": "Ire",
     "Item3": "Ire"
@@ -2498,7 +2498,7 @@
   {
     "Name": "Electrotherapy",
     "URL": "https://poe2db.tw/us/Electrotherapy",
-    "Description": "5% increased Skill Speed 30% increased Electrocute Buildup",
+    "Description": "5% increased Skill Speed\n\n30% increased Electrocute Buildup",
     "Item1": "Suffering",
     "Item2": "Ire",
     "Item3": "Guilt"
@@ -2522,7 +2522,7 @@
   {
     "Name": "Frenetic",
     "URL": "https://poe2db.tw/us/Frenetic",
-    "Description": "5% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges +1 to Maximum Frenzy Charges",
+    "Description": "5% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges\n\n+1 to Maximum Frenzy Charges",
     "Item1": "Ire",
     "Item2": "Suffering",
     "Item3": "Guilt"
@@ -2530,7 +2530,7 @@
   {
     "Name": "Immortal Thirst",
     "URL": "https://poe2db.tw/us/Immortal_Thirst",
-    "Description": "15% increased maximum Energy Shield 25% increased amount of Mana Leeched",
+    "Description": "15% increased maximum Energy Shield\n\n25% increased amount of Mana Leeched",
     "Item1": "Guilt",
     "Item2": "Suffering",
     "Item3": "Guilt"
@@ -2554,7 +2554,7 @@
   {
     "Name": "Thin Ice",
     "URL": "https://poe2db.tw/us/Thin_Ice",
-    "Description": "20% increased Freeze Buildup 50% increased Damage with Hits against Frozen Enemies",
+    "Description": "20% increased Freeze Buildup\n\n50% increased Damage with Hits against Frozen Enemies",
     "Item1": "Suffering",
     "Item2": "Ire",
     "Item3": "Greed"
@@ -2570,7 +2570,7 @@
   {
     "Name": "Ball and Chain",
     "URL": "https://poe2db.tw/us/Ball_and_Chain",
-    "Description": "15% increased Damage with Flails 6% increased Attack Speed with Flails",
+    "Description": "15% increased Damage with Flails\n\n6% increased Attack Speed with Flails",
     "Item1": "Greed",
     "Item2": "Guilt",
     "Item3": "Suffering"
@@ -2594,7 +2594,7 @@
   {
     "Name": "Madness in the Bones",
     "URL": "https://poe2db.tw/us/Madness_in_the_Bones",
-    "Description": "Gain6% of Physical Damage as extra Chaos Damage",
+    "Description": "Gain 6% of Physical Damage as extra Chaos Damage",
     "Item1": "Ire",
     "Item2": "Paranoia",
     "Item3": "Suffering"
@@ -2602,7 +2602,7 @@
   {
     "Name": "Ancestral Reach",
     "URL": "https://poe2db.tw/us/Ancestral_Reach",
-    "Description": "25% increased Totem Placement speed 50% increased Totem Placement range",
+    "Description": "25% increased Totem Placement speed\n\n50% increased Totem Placement range",
     "Item1": "Suffering",
     "Item2": "Paranoia",
     "Item3": "Ire"
@@ -2610,7 +2610,7 @@
   {
     "Name": "Refocus",
     "URL": "https://poe2db.tw/us/Refocus",
-    "Description": "30% increased Energy Shield Recharge Rate 20% increased Mana Regeneration Rate",
+    "Description": "30% increased Energy Shield Recharge Rate\n\n20% increased Mana Regeneration Rate",
     "Item1": "Paranoia",
     "Item2": "Suffering",
     "Item3": "Ire"
@@ -2626,7 +2626,7 @@
   {
     "Name": "Perforation",
     "URL": "https://poe2db.tw/us/Perforation",
-    "Description": "20% chance for Bleeding to be Aggravated when Inflicted against Enemies on Jagged Ground 40% increased Jagged Ground Duration",
+    "Description": "20% chance for Bleeding to be Aggravated when Inflicted against Enemies on Jagged Ground\n\n40% increased Jagged Ground Duration",
     "Item1": "Greed",
     "Item2": "Greed",
     "Item3": "Suffering"
@@ -2634,7 +2634,7 @@
   {
     "Name": "Aspiring Genius",
     "URL": "https://poe2db.tw/us/Aspiring_Genius",
-    "Description": "20% increased Mana Regeneration Rate 10% chance to Gain Arcane Surge when you deal a Critical Hit",
+    "Description": "20% increased Mana Regeneration Rate\n\n10% chance to Gain Arcane Surge when you deal a Critical Hit",
     "Item1": "Suffering",
     "Item2": "Greed",
     "Item3": "Greed"
@@ -2642,7 +2642,7 @@
   {
     "Name": "Ancestral Alacrity",
     "URL": "https://poe2db.tw/us/Ancestral_Alacrity",
-    "Description": "30% increased Totem Placement speed 8% increased Attack and Cast Speed if you've summoned a Totem Recently",
+    "Description": "30% increased Totem Placement speed\n\n8% increased Attack and Cast Speed if you've summoned a Totem Recently",
     "Item1": "Suffering",
     "Item2": "Paranoia",
     "Item3": "Guilt"
@@ -2650,7 +2650,7 @@
   {
     "Name": "Slow Burn",
     "URL": "https://poe2db.tw/us/Slow_Burn",
-    "Description": "20% increased Ignite Duration on Enemies 20% increased Magnitude of Ignite you inflict",
+    "Description": "20% increased Ignite Duration on Enemies\n\n20% increased Magnitude of Ignite you inflict",
     "Item1": "Guilt",
     "Item2": "Suffering",
     "Item3": "Paranoia"
@@ -2658,7 +2658,7 @@
   {
     "Name": "For the Jugular",
     "URL": "https://poe2db.tw/us/For_the_Jugular",
-    "Description": "30% increased Critical Damage Bonus +10 to Intelligence",
+    "Description": "30% increased Critical Damage Bonus\n\n+10 to Intelligence",
     "Item1": "Paranoia",
     "Item2": "Suffering",
     "Item3": "Guilt"
@@ -2666,7 +2666,7 @@
   {
     "Name": "Apocalypse",
     "URL": "https://poe2db.tw/us/Apocalypse",
-    "Description": "40% reduced Damage +6% to Critical Hit Chance of Herald Skills",
+    "Description": "40% reduced Damage\n\n+6% to Critical Hit Chance of Herald Skills",
     "Item1": "Suffering",
     "Item2": "Paranoia",
     "Item3": "Greed"
@@ -2674,7 +2674,7 @@
   {
     "Name": "Stylebender",
     "URL": "https://poe2db.tw/us/Stylebender",
-    "Description": "Break 30% increased Armour on enemies affected by Ailments +10 to Strength 25% increased Physical Damage",
+    "Description": "Break 30% increased Armour on enemies affected by Ailments\n\n+10 to Strength\n\n25% increased Physical Damage",
     "Item1": "Greed",
     "Item2": "Paranoia",
     "Item3": "Suffering"
@@ -2706,7 +2706,7 @@
   {
     "Name": "Crushing Verdict",
     "URL": "https://poe2db.tw/us/Crushing_Verdict",
-    "Description": "5% reduced Attack Speed 30% increased Stun Buildup 50% increased Attack Damage",
+    "Description": "5% reduced Attack Speed\n\n30% increased Stun Buildup\n\n50% increased Attack Damage",
     "Item1": "Envy",
     "Item2": "Suffering",
     "Item3": "Ire"
@@ -2714,7 +2714,7 @@
   {
     "Name": "Spiral into Mania",
     "URL": "https://poe2db.tw/us/Spiral_into_Mania",
-    "Description": "10% increased Cast Speed +7% to Chaos Resistance",
+    "Description": "10% increased Cast Speed\n\n+7% to Chaos Resistance",
     "Item1": "Ire",
     "Item2": "Envy",
     "Item3": "Suffering"
@@ -2730,7 +2730,7 @@
   {
     "Name": "Distracting Presence",
     "URL": "https://poe2db.tw/us/Distracting_Presence",
-    "Description": "10% increased Cooldown Recovery Rate Enemies in your Presence have 10% reduced Cooldown Recovery Rate",
+    "Description": "10% increased Cooldown Recovery Rate\n\nEnemies in your Presence have 10% reduced Cooldown Recovery Rate",
     "Item1": "Envy",
     "Item2": "Guilt",
     "Item3": "Suffering"
@@ -2738,7 +2738,7 @@
   {
     "Name": "Short Shot",
     "URL": "https://poe2db.tw/us/Short_Shot",
-    "Description": "15% reduced Projectile Speed 20% increased Projectile Damage",
+    "Description": "15% reduced Projectile Speed\n\n20% increased Projectile Damage",
     "Item1": "Suffering",
     "Item2": "Guilt",
     "Item3": "Envy"
@@ -2746,7 +2746,7 @@
   {
     "Name": "Melding",
     "URL": "https://poe2db.tw/us/Melding",
-    "Description": "40% increased maximum Energy Shield 10% reduced maximum Mana",
+    "Description": "40% increased maximum Energy Shield\n\n10% reduced maximum Mana",
     "Item1": "Guilt",
     "Item2": "Envy",
     "Item3": "Suffering"
@@ -2754,7 +2754,7 @@
   {
     "Name": "Authority",
     "URL": "https://poe2db.tw/us/Authority",
-    "Description": "20% increased Area of Effect for Attacks 10% increased Cooldown Recovery Rate",
+    "Description": "20% increased Area of Effect for Attacks\n\n10% increased Cooldown Recovery Rate",
     "Item1": "Greed",
     "Item2": "Envy",
     "Item3": "Suffering"
@@ -2762,7 +2762,7 @@
   {
     "Name": "Hindered Capabilities",
     "URL": "https://poe2db.tw/us/Hindered_Capabilities",
-    "Description": "30% increased Damage with Hits against Hindered Enemies Debuffs you inflict have 10% increased Slow Magnitude",
+    "Description": "30% increased Damage with Hits against Hindered Enemies\n\nDebuffs you inflict have 10% increased Slow Magnitude",
     "Item1": "Suffering",
     "Item2": "Greed",
     "Item3": "Envy"
@@ -2770,7 +2770,7 @@
   {
     "Name": "Careful Assassin",
     "URL": "https://poe2db.tw/us/Careful_Assassin",
-    "Description": "20% reduced Critical Damage Bonus 50% increased Critical Hit Chance",
+    "Description": "20% reduced Critical Damage Bonus\n\n50% increased Critical Hit Chance",
     "Item1": "Suffering",
     "Item2": "Envy",
     "Item3": "Greed"
@@ -2778,7 +2778,7 @@
   {
     "Name": "Desensitisation",
     "URL": "https://poe2db.tw/us/Desensitisation",
-    "Description": "25% increased Critical Damage Bonus Hits against you have 25% reduced Critical Damage Bonus",
+    "Description": "25% increased Critical Damage Bonus\n\nHits against you have 25% reduced Critical Damage Bonus",
     "Item1": "Envy",
     "Item2": "Suffering",
     "Item3": "Greed"
@@ -2786,7 +2786,7 @@
   {
     "Name": "Morning Star",
     "URL": "https://poe2db.tw/us/Morning_Star",
-    "Description": "30% increased Critical Hit Chance with Flails 20% increased Critical Damage Bonus with Flails",
+    "Description": "30% increased Critical Hit Chance with Flails\n\n20% increased Critical Damage Bonus with Flails",
     "Item1": "Envy",
     "Item2": "Greed",
     "Item3": "Suffering"
@@ -2794,7 +2794,7 @@
   {
     "Name": "Cruel Methods",
     "URL": "https://poe2db.tw/us/Cruel_Methods",
-    "Description": "Break 40% increased Armour 25% increased Physical Damage",
+    "Description": "Break 40% increased Armour\n\n25% increased Physical Damage",
     "Item1": "Suffering",
     "Item2": "Envy",
     "Item3": "Paranoia"
@@ -2802,7 +2802,7 @@
   {
     "Name": "Lasting Trauma",
     "URL": "https://poe2db.tw/us/Lasting_Trauma",
-    "Description": "5% reduced Attack Speed 30% increased Magnitude of Ailments you inflict 20% increased Duration of Damaging Ailments on Enemies",
+    "Description": "5% reduced Attack Speed\n\n30% increased Magnitude of Ailments you inflict\n\n20% increased Duration of Damaging Ailments on Enemies",
     "Item1": "Suffering",
     "Item2": "Paranoia",
     "Item3": "Envy"
@@ -2810,7 +2810,7 @@
   {
     "Name": "The Power Within",
     "URL": "https://poe2db.tw/us/The_Power_Within",
-    "Description": "20% increased Critical Damage Bonus if you've gained a Power Charge Recently +1 to Maximum Power Charges",
+    "Description": "20% increased Critical Damage Bonus if you've gained a Power Charge Recently\n\n+1 to Maximum Power Charges",
     "Item1": "Envy",
     "Item2": "Paranoia",
     "Item3": "Suffering"
@@ -2818,7 +2818,7 @@
   {
     "Name": "Mindful Awareness",
     "URL": "https://poe2db.tw/us/Mindful_Awareness",
-    "Description": "24% increased Evasion Rating 24% increased maximum Energy Shield",
+    "Description": "24% increased Evasion Rating\n\n24% increased maximum Energy Shield",
     "Item1": "Paranoia",
     "Item2": "Envy",
     "Item3": "Suffering"
@@ -2826,7 +2826,7 @@
   {
     "Name": "Shimmering",
     "URL": "https://poe2db.tw/us/Shimmering",
-    "Description": "20% increased Energy Shield Recovery Rate if you haven't been Hit Recently 3% increased Movement Speed while you have Energy Shield",
+    "Description": "20% increased Energy Shield Recovery Rate if you haven't been Hit Recently\n\n3% increased Movement Speed while you have Energy Shield",
     "Item1": "Envy",
     "Item2": "Envy",
     "Item3": "Suffering"
@@ -2850,7 +2850,7 @@
   {
     "Name": "Moment of Truth",
     "URL": "https://poe2db.tw/us/Moment_of_Truth",
-    "Description": "25% increased Critical Damage Bonus if you've dealt a Non-Critical Hit Recently 20% increased Critical Hit Chance",
+    "Description": "25% increased Critical Damage Bonus if you've dealt a Non-Critical Hit Recently\n\n20% increased Critical Hit Chance",
     "Item1": "Ire",
     "Item2": "Suffering",
     "Item3": "Disgust"
@@ -2890,7 +2890,7 @@
   {
     "Name": "Emboldened Avatar",
     "URL": "https://poe2db.tw/us/Emboldened_Avatar",
-    "Description": "25% increased chance to Ignite 25% increased Freeze Buildup 25% increased chance to Shock 25% increased Electrocute Buildup",
+    "Description": "25% increased chance to Ignite\n\n25% increased Freeze Buildup\n\n25% increased chance to Shock\n\n25% increased Electrocute Buildup",
     "Item1": "Suffering",
     "Item2": "Disgust",
     "Item3": "Greed"
@@ -2898,7 +2898,7 @@
   {
     "Name": "Living Death",
     "URL": "https://poe2db.tw/us/Living_Death",
-    "Description": "Minions have +22% to all Elemental Resistances Minions have +3% to all Maximum Elemental Resistances",
+    "Description": "Minions have +22% to all Elemental Resistances\n\nMinions have +3% to all Maximum Elemental Resistances",
     "Item1": "Greed",
     "Item2": "Suffering",
     "Item3": "Disgust"
@@ -2906,7 +2906,7 @@
   {
     "Name": "Convalescence",
     "URL": "https://poe2db.tw/us/Convalescence",
-    "Description": "15% reduced Energy Shield Recharge Rate 40% faster start of Energy Shield Recharge",
+    "Description": "15% reduced Energy Shield Recharge Rate\n\n40% faster start of Energy Shield Recharge",
     "Item1": "Disgust",
     "Item2": "Suffering",
     "Item3": "Greed"
@@ -2914,7 +2914,7 @@
   {
     "Name": "Escape Velocity",
     "URL": "https://poe2db.tw/us/Escape_Velocity",
-    "Description": "3% increased Movement Speed 30% increased Evasion Rating",
+    "Description": "3% increased Movement Speed\n\n30% increased Evasion Rating",
     "Item1": "Greed",
     "Item2": "Disgust",
     "Item3": "Suffering"
@@ -2930,7 +2930,7 @@
   {
     "Name": "Bolstering Yell",
     "URL": "https://poe2db.tw/us/Bolstering_Yell",
-    "Description": "Empowered Attacks deal 30% increased Damage Warcry Skills have 30% increased Area of Effect",
+    "Description": "Empowered Attacks deal 30% increased Damage\n\nWarcry Skills have 30% increased Area of Effect",
     "Item1": "Suffering",
     "Item2": "Disgust",
     "Item3": "Paranoia"
@@ -2938,7 +2938,7 @@
   {
     "Name": "Feel the Earth",
     "URL": "https://poe2db.tw/us/Feel_the_Earth",
-    "Description": "25% reduced Shock duration on you 40% increased Elemental Ailment Threshold",
+    "Description": "25% reduced Shock duration on you\n\n40% increased Elemental Ailment Threshold",
     "Item1": "Paranoia",
     "Item2": "Suffering",
     "Item3": "Disgust"
@@ -2946,7 +2946,7 @@
   {
     "Name": "Lucidity",
     "URL": "https://poe2db.tw/us/Lucidity",
-    "Description": "8% of Damage is taken from Mana before Life +15 to Intelligence",
+    "Description": "8% of Damage is taken from Mana before Life\n\n+15 to Intelligence",
     "Item1": "Envy",
     "Item2": "Disgust",
     "Item3": "Suffering"
@@ -2954,7 +2954,7 @@
   {
     "Name": "Grit",
     "URL": "https://poe2db.tw/us/Grit",
-    "Description": "5% chance that if you would gain Endurance Charges, you instead gain up to maximum Endurance Charges +1 to Maximum Endurance Charges",
+    "Description": "5% chance that if you would gain Endurance Charges, you instead gain up to maximum Endurance Charges\n\n+1 to Maximum Endurance Charges",
     "Item1": "Suffering",
     "Item2": "Disgust",
     "Item3": "Envy"
@@ -2962,7 +2962,7 @@
   {
     "Name": "Deadly Force",
     "URL": "https://poe2db.tw/us/Deadly_Force",
-    "Description": "30% increased Damage if you've dealt a Critical Hit in the past 8 seconds 12% increased Critical Hit Chance",
+    "Description": "30% increased Damage if you've dealt a Critical Hit in the past 8 seconds\n\n12% increased Critical Hit Chance",
     "Item1": "Disgust",
     "Item2": "Suffering",
     "Item3": "Envy"
@@ -2970,7 +2970,7 @@
   {
     "Name": "Impair",
     "URL": "https://poe2db.tw/us/Impair",
-    "Description": "25% increased Damage with One Handed Weapons Attacks have 10% chance to Maim on Hit",
+    "Description": "25% increased Damage with One Handed Weapons\n\nAttacks have 10% chance to Maim on Hit",
     "Item1": "Envy",
     "Item2": "Suffering",
     "Item3": "Disgust"
@@ -2978,7 +2978,7 @@
   {
     "Name": "Admonisher",
     "URL": "https://poe2db.tw/us/Admonisher",
-    "Description": "25% increased Warcry Speed 25% increased Warcry Cooldown Recovery Rate",
+    "Description": "25% increased Warcry Speed\n\n25% increased Warcry Cooldown Recovery Rate",
     "Item1": "Disgust",
     "Item2": "Suffering",
     "Item3": "Disgust"
@@ -2994,7 +2994,7 @@
   {
     "Name": "Essence of the Mountain",
     "URL": "https://poe2db.tw/us/Essence_of_the_Mountain",
-    "Description": "Gain5% of Damage as Extra Cold Damage 20% increased Freeze Buildup",
+    "Description": "Gain 5% of Damage as Extra Cold Damage\n\n20% increased Freeze Buildup",
     "Item1": "Despair",
     "Item2": "Ire",
     "Item3": "Suffering"
@@ -3002,7 +3002,7 @@
   {
     "Name": "Vengeful Fury",
     "URL": "https://poe2db.tw/us/Vengeful_Fury",
-    "Description": "Gain 5Rage when Hit by an Enemy Every Rage also grants 1% increased Armour",
+    "Description": "Gain 5 Rage when Hit by an Enemy\n\nEvery Rage also grants 1% increased Armour",
     "Item1": "Suffering",
     "Item2": "Ire",
     "Item3": "Despair"
@@ -3026,7 +3026,7 @@
   {
     "Name": "Prolonged Assault",
     "URL": "https://poe2db.tw/us/Prolonged_Assault",
-    "Description": "16% increased Attack Damage 16% increased Skill Effect Duration Buffs on you expire 10% slower",
+    "Description": "16% increased Attack Damage\n\n16% increased Skill Effect Duration\n\nBuffs on you expire 10% slower",
     "Item1": "Guilt",
     "Item2": "Despair",
     "Item3": "Suffering"
@@ -3034,7 +3034,7 @@
   {
     "Name": "Bravado",
     "URL": "https://poe2db.tw/us/Bravado",
-    "Description": "Empowered Attacks have 50% increased Stun Buildup 100% increased Stun Threshold during EmpoweredAttacks",
+    "Description": "Empowered Attacks have 50% increased Stun Buildup\n\n100% increased Stun Threshold during Empowered Attacks",
     "Item1": "Suffering",
     "Item2": "Guilt",
     "Item3": "Despair"
@@ -3042,7 +3042,7 @@
   {
     "Name": "Ruin",
     "URL": "https://poe2db.tw/us/Ruin",
-    "Description": "Spell Skills have 10% reduced Area of Effect 35% increased Spell Area Damage",
+    "Description": "Spell Skills have 10% reduced Area of Effect\n\n35% increased Spell Area Damage",
     "Item1": "Greed",
     "Item2": "Despair",
     "Item3": "Suffering"
@@ -3050,7 +3050,7 @@
   {
     "Name": "Forthcoming",
     "URL": "https://poe2db.tw/us/Forthcoming",
-    "Description": "16% reduced Skill Effect Duration 10% increased Cooldown Recovery Rate",
+    "Description": "16% reduced Skill Effect Duration\n\n10% increased Cooldown Recovery Rate",
     "Item1": "Despair",
     "Item2": "Greed",
     "Item3": "Suffering"
@@ -3058,7 +3058,7 @@
   {
     "Name": "Quick Recovery",
     "URL": "https://poe2db.tw/us/Quick_Recovery",
-    "Description": "40% increased Stun Recovery Regenerate 5% of Life over 1 second when Stunned",
+    "Description": "40% increased Stun Recovery\n\nRegenerate 5% of Life over 1 second when Stunned",
     "Item1": "Despair",
     "Item2": "Suffering",
     "Item3": "Greed"
@@ -3066,7 +3066,7 @@
   {
     "Name": "Silent Shiv",
     "URL": "https://poe2db.tw/us/Silent_Shiv",
-    "Description": "5% increased Attack Speed with Daggers 15% increased Critical Hit Chance with Daggers",
+    "Description": "5% increased Attack Speed with Daggers\n\n15% increased Critical Hit Chance with Daggers",
     "Item1": "Suffering",
     "Item2": "Greed",
     "Item3": "Despair"
@@ -3082,7 +3082,7 @@
   {
     "Name": "Crystalline Flesh",
     "URL": "https://poe2db.tw/us/Crystalline_Flesh",
-    "Description": "Minions have +20% to all Elemental Resistances Minions have +5% to all Maximum Elemental Resistances",
+    "Description": "Minions have +20% to all Elemental Resistances\n\nMinions have +5% to all Maximum Elemental Resistances",
     "Item1": "Despair",
     "Item2": "Paranoia",
     "Item3": "Suffering"
@@ -3090,7 +3090,7 @@
   {
     "Name": "Fan the Flames",
     "URL": "https://poe2db.tw/us/Fan_the_Flames",
-    "Description": "25% reduced Ignite Duration on you 40% increased Elemental Ailment Threshold",
+    "Description": "25% reduced Ignite Duration on you\n\n40% increased Elemental Ailment Threshold",
     "Item1": "Suffering",
     "Item2": "Paranoia",
     "Item3": "Despair"
@@ -3106,7 +3106,7 @@
   {
     "Name": "Path of Winter",
     "URL": "https://poe2db.tw/us/Path_of_Winter",
-    "Description": "18% increased Cold Damage 30% increased Freeze Buildup Witch: Minions deal 15% increased Damage Witch: Minions have 3% increased Attack and Cast Speed",
+    "Description": "18% increased Cold Damage\n\n30% increased Freeze Buildup Witch: Minions deal 15% increased Damage Witch: Minions have 3% increased Attack and Cast Speed",
     "Item1": "Suffering",
     "Item2": "Envy",
     "Item3": "Despair"
@@ -3122,7 +3122,7 @@
   {
     "Name": "Spiral into Depression",
     "URL": "https://poe2db.tw/us/Spiral_into_Depression",
-    "Description": "3% increased Movement Speed 25% increased Armour 25% increased maximum Energy Shield",
+    "Description": "3% increased Movement Speed\n\n25% increased Armour\n\n25% increased maximum Energy Shield",
     "Item1": "Envy",
     "Item2": "Despair",
     "Item3": "Suffering"
@@ -3130,7 +3130,7 @@
   {
     "Name": "Unsight",
     "URL": "https://poe2db.tw/us/Unsight",
-    "Description": "Enemies near Enemies you Mark are Blinded Enemies you Mark cannot deal Critical Hits",
+    "Description": "Enemies near Enemies you Mark are Blinded\n\nEnemies you Mark cannot deal Critical Hits",
     "Item1": "Suffering",
     "Item2": "Disgust",
     "Item3": "Despair"
@@ -3138,7 +3138,7 @@
   {
     "Name": "Marked Agility",
     "URL": "https://poe2db.tw/us/Marked_Agility",
-    "Description": "30% reduced Mana Cost of Mark Skills 4% increased Movement Speed if you've cast a Mark Spell Recently",
+    "Description": "30% reduced Mana Cost of Mark Skills\n\n4% increased Movement Speed if you've cast a Mark Spell Recently",
     "Item1": "Despair",
     "Item2": "Disgust",
     "Item3": "Suffering"
@@ -3162,7 +3162,7 @@
   {
     "Name": "Chilled to the Bone",
     "URL": "https://poe2db.tw/us/Chilled_to_the_Bone",
-    "Description": "20% increased Chill Duration on Enemies 30% increased Magnitude of Chill you inflict",
+    "Description": "20% increased Chill Duration on Enemies\n\n30% increased Magnitude of Chill you inflict",
     "Item1": "Suffering",
     "Item2": "Despair",
     "Item3": "Despair"
@@ -3186,7 +3186,7 @@
   {
     "Name": "Bloodletting",
     "URL": "https://poe2db.tw/us/Bloodletting",
-    "Description": "10% chance to inflict Bleeding on Hit 15% increased Magnitude of Bleeding you inflict",
+    "Description": "10% chance to inflict Bleeding on Hit\n\n15% increased Magnitude of Bleeding you inflict",
     "Item1": "Fear",
     "Item2": "Suffering",
     "Item3": "Ire"
@@ -3194,7 +3194,7 @@
   {
     "Name": "Warm the Heart",
     "URL": "https://poe2db.tw/us/Warm_the_Heart",
-    "Description": "25% reduced Freeze Duration on you 60% increased Freeze Threshold",
+    "Description": "25% reduced Freeze Duration on you\n\n60% increased Freeze Threshold",
     "Item1": "Ire",
     "Item2": "Suffering",
     "Item3": "Fear"
@@ -3202,7 +3202,7 @@
   {
     "Name": "Flurry",
     "URL": "https://poe2db.tw/us/Flurry",
-    "Description": "20% increased Area of Effect while Unarmed 25% reduced Damage with Unarmed Attacks 20% increased UnarmedAttack Speed",
+    "Description": "20% increased Area of Effect while Unarmed\n\n25% reduced Damage with Unarmed Attacks\n\n20% increased Unarmed Attack Speed",
     "Item1": "Fear",
     "Item2": "Suffering",
     "Item3": "Guilt"
@@ -3242,7 +3242,7 @@
   {
     "Name": "Path of Flame",
     "URL": "https://poe2db.tw/us/Path_of_Flame",
-    "Description": "18% increased Fire Damage 30% increased chance to Ignite Witch: 15% increased Critical Hit Chance for Spells Witch: 18% increased Physical Damage",
+    "Description": "18% increased Fire Damage\n\n30% increased chance to Ignite Witch: 15% increased Critical Hit Chance for Spells Witch: 18% increased Physical Damage",
     "Item1": "Suffering",
     "Item2": "Fear",
     "Item3": "Greed"
@@ -3250,7 +3250,7 @@
   {
     "Name": "Deflection",
     "URL": "https://poe2db.tw/us/Deflection",
-    "Description": "30% increased Block chance You take 10% of damage from BlockedHits",
+    "Description": "30% increased Block chance\n\nYou take 10% of damage from Blocked Hits",
     "Item1": "Greed",
     "Item2": "Fear",
     "Item3": "Suffering"
@@ -3274,7 +3274,7 @@
   {
     "Name": "Savagery",
     "URL": "https://poe2db.tw/us/Savagery",
-    "Description": "50% increased Evasion Rating if you've consumed a Frenzy Charge Recently +1 to Maximum Frenzy Charges",
+    "Description": "50% increased Evasion Rating if you've consumed a Frenzy Charge Recently\n\n+1 to Maximum Frenzy Charges",
     "Item1": "Suffering",
     "Item2": "Fear",
     "Item3": "Paranoia"
@@ -3290,7 +3290,7 @@
   {
     "Name": "Immortal Infamy",
     "URL": "https://poe2db.tw/us/Immortal_Infamy",
-    "Description": "10% increased Energy Shield Recharge Rate Recover 2% of Life on Kill +10 to Intelligence",
+    "Description": "10% increased Energy Shield Recharge Rate\n\nRecover 2% of Life on Kill\n\n+10 to Intelligence",
     "Item1": "Envy",
     "Item2": "Suffering",
     "Item3": "Fear"
@@ -3298,7 +3298,7 @@
   {
     "Name": "Spectral Ward",
     "URL": "https://poe2db.tw/us/Spectral_Ward",
-    "Description": "+1 to Maximum Energy Shield per 12Evasion Rating on Equipped Body Armour",
+    "Description": "+1 to Maximum Energy Shield per 12 Evasion Rating on Equipped Body Armour",
     "Item1": "Envy",
     "Item2": "Fear",
     "Item3": "Suffering"
@@ -3306,7 +3306,7 @@
   {
     "Name": "Warding Fetish",
     "URL": "https://poe2db.tw/us/Warding_Fetish",
-    "Description": "30% increased Damage per Curse on you 30% reduced effect of Curses on you 60% increased Energy Shield from Equipped Focus",
+    "Description": "30% increased Damage per Curse on you\n\n30% reduced effect of Curses on you\n\n60% increased Energy Shield from Equipped Focus",
     "Item1": "Fear",
     "Item2": "Suffering",
     "Item3": "Envy"
@@ -3314,7 +3314,7 @@
   {
     "Name": "Finesse",
     "URL": "https://poe2db.tw/us/Finesse",
-    "Description": "10% increased Accuracy Rating Gain Accuracy Rating equal to your Intelligence",
+    "Description": "10% increased Accuracy Rating\n\nGain Accuracy Rating equal to your Intelligence",
     "Item1": "Fear",
     "Item2": "Suffering",
     "Item3": "Disgust"
@@ -3322,7 +3322,7 @@
   {
     "Name": "Dreamcatcher",
     "URL": "https://poe2db.tw/us/Dreamcatcher",
-    "Description": "25% increased Spell Damage while on Full Energy Shield 75% increased Energy Shield from Equipped Focus",
+    "Description": "25% increased Spell Damage while on Full Energy Shield\n\n75% increased Energy Shield from Equipped Focus",
     "Item1": "Disgust",
     "Item2": "Suffering",
     "Item3": "Fear"
@@ -3338,7 +3338,7 @@
   {
     "Name": "Equilibrium",
     "URL": "https://poe2db.tw/us/Equilibrium",
-    "Description": "30% increased Attack Damage if you've Cast a Spell Recently 10% increased Cast Speed if you've Attacked Recently",
+    "Description": "30% increased Attack Damage if you've Cast a Spell Recently\n\n10% increased Cast Speed if you've Attacked Recently",
     "Item1": "Fear",
     "Item2": "Suffering",
     "Item3": "Despair"
@@ -3354,7 +3354,7 @@
   {
     "Name": "Bleeding Out",
     "URL": "https://poe2db.tw/us/Bleeding_Out",
-    "Description": "+250 to Accuracy against Bleeding Enemies Bleeding you inflict deals Damage 10% faster",
+    "Description": "+250 to Accuracy against Bleeding Enemies\n\nBleeding you inflict deals Damage 10% faster",
     "Item1": "Despair",
     "Item2": "Suffering",
     "Item3": "Fear"
@@ -3362,7 +3362,7 @@
   {
     "Name": "Ignore Pain",
     "URL": "https://poe2db.tw/us/Ignore_Pain",
-    "Description": "Gain 3Rage when Hit by an Enemy Every Rage also grants 2% increased Stun Threshold",
+    "Description": "Gain 3 Rage when Hit by an Enemy\n\nEvery Rage also grants 2% increased Stun Threshold",
     "Item1": "Despair",
     "Item2": "Fear",
     "Item3": "Suffering"
@@ -3370,7 +3370,7 @@
   {
     "Name": "Spiked Shield",
     "URL": "https://poe2db.tw/us/Spiked_Shield",
-    "Description": "50% increased Defences from Equipped Shield 1% increased Attack Damage per 75 Armour or Evasion Rating on Shield",
+    "Description": "50% increased Defences from Equipped Shield\n\n1% increased Attack Damage per 75 Armour or Evasion Rating on Shield",
     "Item1": "Fear",
     "Item2": "Suffering",
     "Item3": "Fear"
@@ -3378,7 +3378,7 @@
   {
     "Name": "Carved Earth",
     "URL": "https://poe2db.tw/us/Carved_Earth",
-    "Description": "20% increased Totem Damage 6% increased Attack and Cast Speed if you've summoned a Totem Recently",
+    "Description": "20% increased Totem Damage\n\n6% increased Attack and Cast Speed if you've summoned a Totem Recently",
     "Item1": "Suffering",
     "Item2": "Suffering",
     "Item3": "Ire"
@@ -3386,7 +3386,7 @@
   {
     "Name": "Perfect Opportunity",
     "URL": "https://poe2db.tw/us/Perfect_Opportunity",
-    "Description": "30% increased Stun Buildup Damage with Hits is Lucky against Heavy Stunned Enemies",
+    "Description": "30% increased Stun Buildup\n\nDamage with Hits is Lucky against Heavy Stunned Enemies",
     "Item1": "Ire",
     "Item2": "Suffering",
     "Item3": "Suffering"
@@ -3394,7 +3394,7 @@
   {
     "Name": "Power Conduction",
     "URL": "https://poe2db.tw/us/Power_Conduction",
-    "Description": "25% increased Shock Duration 25% increased Magnitude of Shock you inflict",
+    "Description": "25% increased Shock Duration\n\n25% increased Magnitude of Shock you inflict",
     "Item1": "Guilt",
     "Item2": "Suffering",
     "Item3": "Suffering"
@@ -3410,7 +3410,7 @@
   {
     "Name": "Fulmination",
     "URL": "https://poe2db.tw/us/Fulmination",
-    "Description": "40% increased chance to Ignite 40% increased Damage with Hits against Ignited Enemies",
+    "Description": "40% increased chance to Ignite\n\n40% increased Damage with Hits against Ignited Enemies",
     "Item1": "Suffering",
     "Item2": "Suffering",
     "Item3": "Greed"
@@ -3418,7 +3418,7 @@
   {
     "Name": "Leeching Toxins",
     "URL": "https://poe2db.tw/us/Leeching_Toxins",
-    "Description": "30% increased Magnitude of Poison you inflict Recover 2% of Life on Killing a Poisoned Enemy",
+    "Description": "30% increased Magnitude of Poison you inflict\n\nRecover 2% of Life on Killing a Poisoned Enemy",
     "Item1": "Greed",
     "Item2": "Suffering",
     "Item3": "Suffering"
@@ -3426,7 +3426,7 @@
   {
     "Name": "Illuminated Crown",
     "URL": "https://poe2db.tw/us/Illuminated_Crown",
-    "Description": "20% increased Light Radius 70% increased Energy Shield from Equipped Helmet",
+    "Description": "20% increased Light Radius\n\n70% increased Energy Shield from Equipped Helmet",
     "Item1": "Suffering",
     "Item2": "Paranoia",
     "Item3": "Suffering"
@@ -3434,7 +3434,7 @@
   {
     "Name": "Storm Swell",
     "URL": "https://poe2db.tw/us/Storm_Swell",
-    "Description": "Damage Penetrates15% Cold Resistance Damage Penetrates8% Lightning Resistance",
+    "Description": "Damage Penetrates 15% Cold Resistance\n\nDamage Penetrates 8% Lightning Resistance",
     "Item1": "Envy",
     "Item2": "Suffering",
     "Item3": "Suffering"
@@ -3442,7 +3442,7 @@
   {
     "Name": "Entropic Incarnation",
     "URL": "https://poe2db.tw/us/Entropic_Incarnation",
-    "Description": "Minions have +13% to ChaosResistance Minions gain 8% of Physical Damage as Chaos Damage",
+    "Description": "Minions have +13% to Chaos Resistance\n\nMinions gain 8% of Physical Damage as Chaos Damage",
     "Item1": "Suffering",
     "Item2": "Suffering",
     "Item3": "Envy"
@@ -3450,7 +3450,7 @@
   {
     "Name": "Breath of Ice",
     "URL": "https://poe2db.tw/us/Breath_of_Ice",
-    "Description": "Damage Penetrates15% Cold Resistance +10 to Intelligence",
+    "Description": "Damage Penetrates 15% Cold Resistance\n\n+10 to Intelligence",
     "Item1": "Suffering",
     "Item2": "Disgust",
     "Item3": "Suffering"
@@ -3458,7 +3458,7 @@
   {
     "Name": "Watchtowers",
     "URL": "https://poe2db.tw/us/Watchtowers",
-    "Description": "Attack Skills have +1 to maximum number of Summoned Totems Skills that would Summon a Totem have 20% chance to Summon two Totems instead",
+    "Description": "Attack Skills have +1 to maximum number of Summoned Totems\n\nSkills that would Summon a Totem have 20% chance to Summon two Totems instead",
     "Item1": "Disgust",
     "Item2": "Suffering",
     "Item3": "Suffering"
@@ -3482,7 +3482,7 @@
   {
     "Name": "Master of Hexes",
     "URL": "https://poe2db.tw/us/Master_of_Hexes",
-    "Description": "25% reduced Curse Duration 18% increased Effect of your Curses",
+    "Description": "25% reduced Curse Duration\n\n18% increased Effect of your Curses",
     "Item1": "Suffering",
     "Item2": "Fear",
     "Item3": "Suffering"
@@ -3506,7 +3506,7 @@
   {
     "Name": "Perpetual Freeze",
     "URL": "https://poe2db.tw/us/Perpetual_Freeze",
-    "Description": "15% increased Freeze Buildup 15% increased Chill and Freeze Duration on Enemies",
+    "Description": "15% increased Freeze Buildup\n\n15% increased Chill and Freeze Duration on Enemies",
     "Item1": "Guilt",
     "Item2": "Ire",
     "Item3": "Isolation"
@@ -3514,7 +3514,7 @@
   {
     "Name": "Spell Haste",
     "URL": "https://poe2db.tw/us/Spell_Haste",
-    "Description": "15% increased Evasion Rating 8% increased Cast Speed",
+    "Description": "15% increased Evasion Rating\n\n8% increased Cast Speed",
     "Item1": "Ire",
     "Item2": "Guilt",
     "Item3": "Isolation"
@@ -3530,7 +3530,7 @@
   {
     "Name": "Wither Away",
     "URL": "https://poe2db.tw/us/Wither_Away",
-    "Description": "Unwithered enemies are Withered for 8 seconds when they enter your Presence 20% increased Effect of Withered",
+    "Description": "Unwithered enemies are Withered for 8 seconds when they enter your Presence\n\n20% increased Effect of Withered",
     "Item1": "Guilt",
     "Item2": "Guilt",
     "Item3": "Isolation"
@@ -3538,7 +3538,7 @@
   {
     "Name": "Lust for Power",
     "URL": "https://poe2db.tw/us/Lust_for_Power",
-    "Description": "5% chance that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges +1 to Maximum Power Charges",
+    "Description": "5% chance that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges\n\n+1 to Maximum Power Charges",
     "Item1": "Isolation",
     "Item2": "Guilt",
     "Item3": "Guilt"
@@ -3546,7 +3546,7 @@
   {
     "Name": "Crushing Judgement",
     "URL": "https://poe2db.tw/us/Crushing_Judgement",
-    "Description": "25% increased Armour Break Duration 25% increased Attack Area Damage",
+    "Description": "25% increased Armour Break Duration\n\n25% increased Attack Area Damage",
     "Item1": "Greed",
     "Item2": "Isolation",
     "Item3": "Ire"
@@ -3554,7 +3554,7 @@
   {
     "Name": "Dynamism",
     "URL": "https://poe2db.tw/us/Dynamism",
-    "Description": "40% increased Damage if you've Triggered a Skill Recently Meta Skills gain 15% increased Energy",
+    "Description": "40% increased Damage if you've Triggered a Skill Recently\n\nMeta Skills gain 15% increased Energy",
     "Item1": "Isolation",
     "Item2": "Greed",
     "Item3": "Ire"
@@ -3578,7 +3578,7 @@
   {
     "Name": "Shredding Force",
     "URL": "https://poe2db.tw/us/Shredding_Force",
-    "Description": "15% increased Critical Hit Chance for Spells 15% increased Critical Spell Damage Bonus 15% increased Magnitude of Damaging Ailments you inflict with Critical Hits",
+    "Description": "15% increased Critical Hit Chance for Spells\n\n15% increased Critical Spell Damage Bonus\n\n15% increased Magnitude of Damaging Ailments you inflict with Critical Hits",
     "Item1": "Guilt",
     "Item2": "Isolation",
     "Item3": "Greed"
@@ -3586,7 +3586,7 @@
   {
     "Name": "Escalation",
     "URL": "https://poe2db.tw/us/Escalation",
-    "Description": "25% increased Warcry Speed 20% increased Damage for each different Warcry you've used Recently",
+    "Description": "25% increased Warcry Speed\n\n20% increased Damage for each different Warcry you've used Recently",
     "Item1": "Isolation",
     "Item2": "Greed",
     "Item3": "Guilt"
@@ -3594,7 +3594,7 @@
   {
     "Name": "Firestarter",
     "URL": "https://poe2db.tw/us/Firestarter",
-    "Description": "40% increased chance to Ignite Enemies Ignited by you have -5% to Fire Resistance",
+    "Description": "40% increased chance to Ignite Enemies\n\nIgnited by you have -5% to Fire Resistance",
     "Item1": "Greed",
     "Item2": "Isolation",
     "Item3": "Guilt"
@@ -3602,7 +3602,7 @@
   {
     "Name": "Flash Storm",
     "URL": "https://poe2db.tw/us/Flash_Storm",
-    "Description": "30% increased chance to Shock Damage Penetrates15% Lightning Resistance",
+    "Description": "30% increased chance to Shock\n\nDamage Penetrates 15% Lightning Resistance",
     "Item1": "Paranoia",
     "Item2": "Ire",
     "Item3": "Isolation"
@@ -3610,7 +3610,7 @@
   {
     "Name": "Inescapable Cold",
     "URL": "https://poe2db.tw/us/Inescapable_Cold",
-    "Description": "40% increased Freeze Buildup 20% increased Freeze Duration on Enemies",
+    "Description": "40% increased Freeze Buildup\n\n20% increased Freeze Duration on Enemies",
     "Item1": "Ire",
     "Item2": "Paranoia",
     "Item3": "Isolation"
@@ -3626,7 +3626,7 @@
   {
     "Name": "Burning Nature",
     "URL": "https://poe2db.tw/us/Burning_Nature",
-    "Description": "25% increased Fire Damage 15% increased Ignite Duration on Enemies",
+    "Description": "25% increased Fire Damage\n\n15% increased Ignite Duration on Enemies",
     "Item1": "Greed",
     "Item2": "Isolation",
     "Item3": "Greed"
@@ -3634,7 +3634,7 @@
   {
     "Name": "Unforgiving",
     "URL": "https://poe2db.tw/us/Unforgiving",
-    "Description": "+4 to Maximum Rage Inherent Rage Loss starts 1 second later",
+    "Description": "+4 to Maximum Rage\n\nInherent Rage Loss starts 1 second later",
     "Item1": "Isolation",
     "Item2": "Greed",
     "Item3": "Greed"
@@ -3642,7 +3642,7 @@
   {
     "Name": "Glaciation",
     "URL": "https://poe2db.tw/us/Glaciation",
-    "Description": "Damage Penetrates18% Cold Resistance 25% increased Cold Exposure Effect",
+    "Description": "Damage Penetrates 18% Cold Resistance\n\n25% increased Cold Exposure Effect",
     "Item1": "Paranoia",
     "Item2": "Guilt",
     "Item3": "Isolation"
@@ -3658,7 +3658,7 @@
   {
     "Name": "Reaching Strike",
     "URL": "https://poe2db.tw/us/Reaching_Strike",
-    "Description": "25% increased Melee Damage +2 to Melee Strike Range",
+    "Description": "25% increased Melee Damage\n\n+2 to Melee Strike Range",
     "Item1": "Isolation",
     "Item2": "Paranoia",
     "Item3": "Guilt"
@@ -3666,7 +3666,7 @@
   {
     "Name": "One with the River",
     "URL": "https://poe2db.tw/us/One_with_the_River",
-    "Description": "30% increased Defences while wielding a Staff 30% increased Stun Buildup with Quarterstaves 30% increased Daze Buildup with Quarterstaves 30% increased Freeze Buildup with Quarterstaves",
+    "Description": "30% increased Defences while wielding a Staff\n\n30% increased Stun Buildup with Quarterstaves\n\n30% increased Daze Buildup with Quarterstaves 30% increased Freeze Buildup with Quarterstaves",
     "Item1": "Guilt",
     "Item2": "Paranoia",
     "Item3": "Isolation"
@@ -3690,7 +3690,7 @@
   {
     "Name": "Heavy Buffer",
     "URL": "https://poe2db.tw/us/Heavy_Buffer",
-    "Description": "40% increased maximum Energy Shield 10% reduced maximum Life",
+    "Description": "40% increased maximum Energy Shield\n\n10% reduced maximum Life",
     "Item1": "Greed",
     "Item2": "Paranoia",
     "Item3": "Isolation"
@@ -3698,7 +3698,7 @@
   {
     "Name": "Near at Hand",
     "URL": "https://poe2db.tw/us/Near_at_Hand",
-    "Description": "16% reduced Skill Effect Duration 10% reduced Slowing Potency of Debuffs on You",
+    "Description": "16% reduced Skill Effect Duration\n\n10% reduced Slowing Potency of Debuffs on You",
     "Item1": "Paranoia",
     "Item2": "Isolation",
     "Item3": "Paranoia"
@@ -3722,7 +3722,7 @@
   {
     "Name": "Impending Doom",
     "URL": "https://poe2db.tw/us/Impending_Doom",
-    "Description": "40% faster Curse Activation Your Curses have 20% increased Effect if 50% of Curse Duration expired",
+    "Description": "40% faster Curse Activation\n\nYour Curses have 20% increased Effect if 50% of Curse Duration expired",
     "Item1": "Envy",
     "Item2": "Isolation",
     "Item3": "Ire"
@@ -3738,7 +3738,7 @@
   {
     "Name": "Versatile Arms",
     "URL": "https://poe2db.tw/us/Versatile_Arms",
-    "Description": "6% increased Attack Speed with One Handed Melee Weapons 15% increased Accuracy Rating with One Handed Melee Weapons +10 to Strength and Dexterity",
+    "Description": "6% increased Attack Speed with One Handed Melee Weapons\n\n15% increased Accuracy Rating with One Handed Melee Weapons\n\n+10 to Strength and Dexterity",
     "Item1": "Ire",
     "Item2": "Isolation",
     "Item3": "Envy"
@@ -3754,7 +3754,7 @@
   {
     "Name": "Sturdy Mind",
     "URL": "https://poe2db.tw/us/Sturdy_Mind",
-    "Description": "+30 to maximum Mana 14% increased Mana Regeneration Rate",
+    "Description": "+30 to maximum Mana\n\n14% increased Mana Regeneration Rate",
     "Item1": "Isolation",
     "Item2": "Envy",
     "Item3": "Guilt"
@@ -3762,7 +3762,7 @@
   {
     "Name": "Pure Chaos",
     "URL": "https://poe2db.tw/us/Pure_Chaos",
-    "Description": "Gain11% of Damage as Extra Chaos Damage",
+    "Description": "Gain 11% of Damage as Extra Chaos Damage",
     "Item1": "Envy",
     "Item2": "Isolation",
     "Item3": "Guilt"
@@ -3778,7 +3778,7 @@
   {
     "Name": "Storm Surge",
     "URL": "https://poe2db.tw/us/Storm_Surge",
-    "Description": "Damage Penetrates8% Cold Resistance Damage Penetrates15% Lightning Resistance",
+    "Description": "Damage Penetrates 8% Cold Resistance\n\nDamage Penetrates 15% Lightning Resistance",
     "Item1": "Envy",
     "Item2": "Isolation",
     "Item3": "Greed"
@@ -3786,7 +3786,7 @@
   {
     "Name": "Spiral into Insanity",
     "URL": "https://poe2db.tw/us/Spiral_into_Insanity",
-    "Description": "29% increased Chaos Damage 10% increased Global Defences",
+    "Description": "29% increased Chaos Damage\n\n10% increased Global Defences",
     "Item1": "Greed",
     "Item2": "Isolation",
     "Item3": "Envy"
@@ -3802,7 +3802,7 @@
   {
     "Name": "Throatseeker",
     "URL": "https://poe2db.tw/us/Throatseeker",
-    "Description": "60% increased Critical Damage Bonus 20% reduced Critical Hit Chance",
+    "Description": "60% increased Critical Damage Bonus\n\n20% reduced Critical Hit Chance",
     "Item1": "Greed",
     "Item2": "Envy",
     "Item3": "Isolation"
@@ -3810,7 +3810,7 @@
   {
     "Name": "Inner Faith",
     "URL": "https://poe2db.tw/us/Inner_Faith",
-    "Description": "20% increased Evasion Rating 20% increased maximum Energy Shield 25% reduced effect of Curses on you",
+    "Description": "20% increased Evasion Rating\n\n20% increased maximum Energy Shield\n\n25% reduced effect of Curses on you",
     "Item1": "Envy",
     "Item2": "Greed",
     "Item3": "Isolation"
@@ -3818,7 +3818,7 @@
   {
     "Name": "Overload",
     "URL": "https://poe2db.tw/us/Overload",
-    "Description": "Damage Penetrates10% LightningResistance if on Low Mana Damage Penetrates15% Lightning Resistance",
+    "Description": "Damage Penetrates 10% Lightning Resistance if on Low Mana\n\nDamage Penetrates 15% Lightning Resistance",
     "Item1": "Paranoia",
     "Item2": "Isolation",
     "Item3": "Envy"
@@ -3834,7 +3834,7 @@
   {
     "Name": "Invocated Efficiency",
     "URL": "https://poe2db.tw/us/Invocated_Efficiency",
-    "Description": "Recover 3% of Mana when you Invoke a Spell TriggeredSpells deal 45% increased Spell Damage",
+    "Description": "Recover 3% of Mana when you Invoke a Spell\n\nTriggered Spells deal 45% increased Spell Damage",
     "Item1": "Isolation",
     "Item2": "Envy",
     "Item3": "Paranoia"
@@ -3850,7 +3850,7 @@
   {
     "Name": "Crippling Toxins",
     "URL": "https://poe2db.tw/us/Crippling_Toxins",
-    "Description": "25% chance for Attacks to Maim on Hit against Poisoned Enemies 25% increased Magnitude of Poison you inflict",
+    "Description": "25% chance for Attacks to Maim on Hit against Poisoned Enemies\n\n25% increased Magnitude of Poison you inflict",
     "Item1": "Envy",
     "Item2": "Isolation",
     "Item3": "Envy"
@@ -3858,7 +3858,7 @@
   {
     "Name": "Ancestral Artifice",
     "URL": "https://poe2db.tw/us/Ancestral_Artifice",
-    "Description": "Attack Skills have +1 to maximum number of Summoned Totems 20% increased Totem Placement range",
+    "Description": "Attack Skills have +1 to maximum number of Summoned Totems\n\n20% increased Totem Placement range",
     "Item1": "Suffering",
     "Item2": "Suffering",
     "Item3": "Suffering"
@@ -3866,7 +3866,7 @@
   {
     "Name": "Lucky Rabbit Foot",
     "URL": "https://poe2db.tw/us/Lucky_Rabbit_Foot",
-    "Description": "30% increased Damage while you have an active Charm 6% increased Movement Speed while you have an active Charm",
+    "Description": "30% increased Damage while you have an active Charm\n\n6% increased Movement Speed while you have an active Charm",
     "Item1": "Isolation",
     "Item2": "Disgust",
     "Item3": "Ire"
@@ -3882,7 +3882,7 @@
   {
     "Name": "Void",
     "URL": "https://poe2db.tw/us/Void",
-    "Description": "29% increased Chaos Damage Enemies you Curse have -3% to Chaos Resistance",
+    "Description": "29% increased Chaos Damage\n\nEnemies you Curse have -3% to Chaos Resistance",
     "Item1": "Isolation",
     "Item2": "Ire",
     "Item3": "Disgust"
@@ -3898,7 +3898,7 @@
   {
     "Name": "Snowpiercer",
     "URL": "https://poe2db.tw/us/Snowpiercer",
-    "Description": "Damage Penetrates15% Cold Resistance +10 to Intelligence",
+    "Description": "Damage Penetrates 15% Cold Resistance\n\n+10 to Intelligence",
     "Item1": "Isolation",
     "Item2": "Guilt",
     "Item3": "Disgust"
@@ -3914,7 +3914,7 @@
   {
     "Name": "Battle Fever",
     "URL": "https://poe2db.tw/us/Battle_Fever",
-    "Description": "5% increased Attack and Cast Speed 25% increased Physical Damage",
+    "Description": "5% increased Attack and Cast Speed\n\n25% increased Physical Damage",
     "Item1": "Disgust",
     "Item2": "Guilt",
     "Item3": "Isolation"
@@ -3922,7 +3922,7 @@
   {
     "Name": "Incendiary",
     "URL": "https://poe2db.tw/us/Incendiary",
-    "Description": "30% increased chance to Ignite 30% increased Damage with Hits against Burning Enemies",
+    "Description": "30% increased chance to Ignite\n\n30% increased Damage with Hits against Burning Enemies",
     "Item1": "Isolation",
     "Item2": "Disgust",
     "Item3": "Guilt"
@@ -3930,7 +3930,7 @@
   {
     "Name": "Stand and Deliver",
     "URL": "https://poe2db.tw/us/Stand_and_Deliver",
-    "Description": "Projectiles have 40% increased Critical Damage Bonus against Enemies within 2m Projectiles deal 25% increased Damage with Hits against Enemies within 2m",
+    "Description": "Projectiles have 40% increased Critical Damage Bonus against Enemies within 2m\n\nProjectiles deal 25% increased Damage with Hits against Enemies within 2m",
     "Item1": "Disgust",
     "Item2": "Greed",
     "Item3": "Isolation"
@@ -3938,7 +3938,7 @@
   {
     "Name": "Lasting Incantations",
     "URL": "https://poe2db.tw/us/Lasting_Incantations",
-    "Description": "20% increased Spell Damage 20% increased Skill Effect Duration",
+    "Description": "20% increased Spell Damage\n\n20% increased Skill Effect Duration",
     "Item1": "Isolation",
     "Item2": "Greed",
     "Item3": "Disgust"
@@ -3946,7 +3946,7 @@
   {
     "Name": "Pliable Flesh",
     "URL": "https://poe2db.tw/us/Pliable_Flesh",
-    "Description": "6% of Damage taken Recouped as Life 25% increased speed of Recoup Effects",
+    "Description": "6% of Damage taken Recouped as Life\n\n25% increased speed of Recoup Effects",
     "Item1": "Greed",
     "Item2": "Disgust",
     "Item3": "Isolation"
@@ -3954,7 +3954,7 @@
   {
     "Name": "Breath of Lightning",
     "URL": "https://poe2db.tw/us/Breath_of_Lightning",
-    "Description": "Damage Penetrates15% Lightning Resistance +10 to Dexterity",
+    "Description": "Damage Penetrates 15% Lightning Resistance\n\n+10 to Dexterity",
     "Item1": "Disgust",
     "Item2": "Paranoia",
     "Item3": "Isolation"
@@ -3970,7 +3970,7 @@
   {
     "Name": "Stacking Toxins",
     "URL": "https://poe2db.tw/us/Stacking_Toxins",
-    "Description": "Targets can be affected by +1 of your Poisons at the same time 20% reduced Magnitude of Poison you inflict",
+    "Description": "Targets can be affected by +1 of your Poisons at the same time\n\n20% reduced Magnitude of Poison you inflict",
     "Item1": "Isolation",
     "Item2": "Disgust",
     "Item3": "Paranoia"
@@ -3978,7 +3978,7 @@
   {
     "Name": "Split the Earth",
     "URL": "https://poe2db.tw/us/Split_the_Earth",
-    "Description": "10% chance to Aftershock for Slam Skills you use with Maces 10% chance to Aftershock for Strike Skills you use with Maces",
+    "Description": "10% chance to Aftershock for Slam Skills you use with Maces\n\n10% chance to Aftershock for Strike Skills you use with Maces",
     "Item1": "Isolation",
     "Item2": "Paranoia",
     "Item3": "Disgust"
@@ -3986,7 +3986,7 @@
   {
     "Name": "Exposed to the Inferno",
     "URL": "https://poe2db.tw/us/Exposed_to_the_Inferno",
-    "Description": "Damage Penetrates15% Fire Resistance FireExposure you inflict lowers Total FireResistance by an extra 5%",
+    "Description": "Damage Penetrates 15% Fire Resistance\n\nFire Exposure you inflict lowers Total Fire Resistance by an extra 5%",
     "Item1": "Isolation",
     "Item2": "Envy",
     "Item3": "Disgust"
@@ -3994,7 +3994,7 @@
   {
     "Name": "Exploit",
     "URL": "https://poe2db.tw/us/Exploit",
-    "Description": "25% increased Damage with Hits against Enemies affected by Elemental Ailments 15% increased Duration of Ignite, Shock and Chill on Enemies",
+    "Description": "25% increased Damage with Hits against Enemies affected by Elemental Ailments\n\n15% increased Duration of Ignite, Shock and Chill on Enemies",
     "Item1": "Disgust",
     "Item2": "Envy",
     "Item3": "Isolation"
@@ -4002,7 +4002,7 @@
   {
     "Name": "Burning Strikes",
     "URL": "https://poe2db.tw/us/Burning_Strikes",
-    "Description": "Gain12% of Physical Damage as Extra Fire Damage",
+    "Description": "Gain 12% of Physical Damage as Extra Fire Damage",
     "Item1": "Envy",
     "Item2": "Disgust",
     "Item3": "Isolation"
@@ -4018,7 +4018,7 @@
   {
     "Name": "Lingering Horror",
     "URL": "https://poe2db.tw/us/Lingering_Horror",
-    "Description": "23% increased Chaos Damage 15% increased Skill Effect Duration",
+    "Description": "23% increased Chaos Damage\n\n15% increased Skill Effect Duration",
     "Item1": "Isolation",
     "Item2": "Disgust",
     "Item3": "Disgust"
@@ -4034,7 +4034,7 @@
   {
     "Name": "Kite Runner",
     "URL": "https://poe2db.tw/us/Kite_Runner",
-    "Description": "3% increased Movement Speed 15% increased Projectile Speed 15% increased Projectile Damage",
+    "Description": "3% increased Movement Speed\n\n15% increased Projectile Speed\n\n15% increased Projectile Damage",
     "Item1": "Ire",
     "Item2": "Isolation",
     "Item3": "Despair"
@@ -4042,7 +4042,7 @@
   {
     "Name": "Maiming Strike",
     "URL": "https://poe2db.tw/us/Maiming_Strike",
-    "Description": "25% increased Attack Damage Attacks have 25% chance to Maim on Hit",
+    "Description": "25% increased Attack Damage\n\nAttacks have 25% chance to Maim on Hit",
     "Item1": "Despair",
     "Item2": "Isolation",
     "Item3": "Ire"
@@ -4066,7 +4066,7 @@
   {
     "Name": "Staggering Palm",
     "URL": "https://poe2db.tw/us/Staggering_Palm",
-    "Description": "20% increased Critical Damage Bonus 20% increased Knockback Distance 20% increased Physical Damage",
+    "Description": "20% increased Critical Damage Bonus\n\n20% increased Knockback Distance\n\n20% increased Physical Damage",
     "Item1": "Guilt",
     "Item2": "Isolation",
     "Item3": "Despair"
@@ -4074,7 +4074,7 @@
   {
     "Name": "Event Horizon",
     "URL": "https://poe2db.tw/us/Event_Horizon",
-    "Description": "53% increased Chaos Damage Lose3% of Life and Energy Shield when you use a Chaos Skill",
+    "Description": "53% increased Chaos Damage\n\nLose 3% of Life and Energy Shield when you use a Chaos Skill",
     "Item1": "Despair",
     "Item2": "Isolation",
     "Item3": "Guilt"
@@ -4082,7 +4082,7 @@
   {
     "Name": "Blood Tearing",
     "URL": "https://poe2db.tw/us/Blood_Tearing",
-    "Description": "15% increased Magnitude of Bleeding you inflict 25% increased Physical Damage",
+    "Description": "15% increased Magnitude of Bleeding you inflict\n\n25% increased Physical Damage",
     "Item1": "Despair",
     "Item2": "Isolation",
     "Item3": "Greed"
@@ -4090,7 +4090,7 @@
   {
     "Name": "Climate Change",
     "URL": "https://poe2db.tw/us/Climate_Change",
-    "Description": "20% increased Freeze Buildup Gain25% of Cold Damage as Extra Fire Damage against Frozen Enemies",
+    "Description": "20% increased Freeze Buildup\n\nGain 25% of Cold Damage as Extra Fire Damage against Frozen Enemies",
     "Item1": "Greed",
     "Item2": "Isolation",
     "Item3": "Despair"
@@ -4098,7 +4098,7 @@
   {
     "Name": "Unexpected Finesse",
     "URL": "https://poe2db.tw/us/Unexpected_Finesse",
-    "Description": "10% increased Attack Damage Gain Accuracy Rating equal to your Strength",
+    "Description": "10% increased Attack Damage\n\nGain Accuracy Rating equal to your Strength",
     "Item1": "Despair",
     "Item2": "Greed",
     "Item3": "Isolation"
@@ -4114,7 +4114,7 @@
   {
     "Name": "Tempered Mind",
     "URL": "https://poe2db.tw/us/Tempered_Mind",
-    "Description": "20% increased Critical Damage Bonus +10 to Strength 20% increased Physical Damage",
+    "Description": "20% increased Critical Damage Bonus\n\n+10 to Strength\n\n20% increased Physical Damage",
     "Item1": "Isolation",
     "Item2": "Despair",
     "Item3": "Paranoia"
@@ -4122,7 +4122,7 @@
   {
     "Name": "Reusable Ammunition",
     "URL": "https://poe2db.tw/us/Reusable_Ammunition",
-    "Description": "15% chance for CrossbowAttacks to not consume a bolt",
+    "Description": "15% chance for Crossbow Attacks to not consume a bolt",
     "Item1": "Paranoia",
     "Item2": "Isolation",
     "Item3": "Despair"
@@ -4138,7 +4138,7 @@
   {
     "Name": "Exposed to the Storm",
     "URL": "https://poe2db.tw/us/Exposed_to_the_Storm",
-    "Description": "Damage Penetrates18% Lightning Resistance 30% increased Critical Hit Chance against enemies with LightningExposure",
+    "Description": "Damage Penetrates 18% Lightning Resistance\n\n30% increased Critical Hit Chance against enemies with Lightning Exposure",
     "Item1": "Envy",
     "Item2": "Isolation",
     "Item3": "Despair"
@@ -4146,7 +4146,7 @@
   {
     "Name": "Cut to the Bone",
     "URL": "https://poe2db.tw/us/Cut_to_the_Bone",
-    "Description": "Break Armour on Critical Hit with Spells equal to 10% of Physical Damage dealt 10% chance to inflict Bleeding on Hit 20% increased Physical Damage",
+    "Description": "Break Armour on Critical Hit with Spells equal to 10% of Physical Damage dealt\n\n10% chance to inflict Bleeding on Hit\n\n20% increased Physical Damage",
     "Item1": "Despair",
     "Item2": "Envy",
     "Item3": "Isolation"
@@ -4154,7 +4154,7 @@
   {
     "Name": "Lingering Whispers",
     "URL": "https://poe2db.tw/us/Lingering_Whispers",
-    "Description": "40% increased Curse Duration 10% increased Effect of your Curses",
+    "Description": "40% increased Curse Duration\n\n10% increased Effect of your Curses",
     "Item1": "Isolation",
     "Item2": "Despair",
     "Item3": "Envy"
@@ -4162,7 +4162,7 @@
   {
     "Name": "Lasting Toxins",
     "URL": "https://poe2db.tw/us/Lasting_Toxins",
-    "Description": "10% increased Skill Effect Duration 50% increased Poison Duration",
+    "Description": "10% increased Skill Effect Duration\n\n50% increased Poison Duration",
     "Item1": "Despair",
     "Item2": "Isolation",
     "Item3": "Envy"
@@ -4170,7 +4170,7 @@
   {
     "Name": "Fated End",
     "URL": "https://poe2db.tw/us/Fated_End",
-    "Description": "30% increased Curse Duration Enemies Cursed by you have 50% reduced Life Regeneration Rate Enemies you Curse cannot Recharge Energy Shield",
+    "Description": "30% increased Curse Duration\n\nEnemies Cursed by you have 50% reduced Life Regeneration Rate\n\nEnemies you Curse cannot Recharge Energy Shield",
     "Item1": "Disgust",
     "Item2": "Isolation",
     "Item3": "Despair"
@@ -4186,7 +4186,7 @@
   {
     "Name": "Final Barrage",
     "URL": "https://poe2db.tw/us/Final_Barrage",
-    "Description": "20% increased Cast Speed when on Low Life 10% reduced Cast Speed when on Full Life",
+    "Description": "20% increased Cast Speed when on Low Life\n\n10% reduced Cast Speed when on Full Life",
     "Item1": "Isolation",
     "Item2": "Despair",
     "Item3": "Disgust"
@@ -4194,7 +4194,7 @@
   {
     "Name": "Giantslayer",
     "URL": "https://poe2db.tw/us/Giantslayer",
-    "Description": "25% increased Damage with Hits against Rare and Unique Enemies 20% increased Accuracy Rating against Rare or Unique Enemies 20% increased chance to inflict Ailments against Rare or Unique Enemies",
+    "Description": "25% increased Damage with Hits against Rare and Unique Enemies\n\n20% increased Accuracy Rating against Rare or Unique Enemies\n\n20% increased chance to inflict Ailments against Rare or Unique Enemies",
     "Item1": "Despair",
     "Item2": "Isolation",
     "Item3": "Despair"
@@ -4210,7 +4210,7 @@
   {
     "Name": "Breath of Fire",
     "URL": "https://poe2db.tw/us/Breath_of_Fire",
-    "Description": "Damage Penetrates15% Fire Resistance +10 to Strength",
+    "Description": "Damage Penetrates 15% Fire Resistance\n\n+10 to Strength",
     "Item1": "Fear",
     "Item2": "Ire",
     "Item3": "Isolation"
@@ -4218,7 +4218,7 @@
   {
     "Name": "Presence Present",
     "URL": "https://poe2db.tw/us/Presence_Present",
-    "Description": "Allies in your Presence have +100 to Accuracy Rating 35% increased Attack Damage while you have an Ally in your Presence",
+    "Description": "Allies in your Presence have +100 to Accuracy Rating\n\n35% increased Attack Damage while you have an Ally in your Presence",
     "Item1": "Ire",
     "Item2": "Fear",
     "Item3": "Isolation"
@@ -4226,7 +4226,7 @@
   {
     "Name": "Martial Artistry",
     "URL": "https://poe2db.tw/us/Martial_Artistry",
-    "Description": "25% increased Accuracy Rating with Quarterstaves 25% increased Critical Damage Bonus with Quarterstaves +25 to Dexterity",
+    "Description": "25% increased Accuracy Rating with Quarterstaves\n\n25% increased Critical Damage Bonus with Quarterstaves\n\n+25 to Dexterity",
     "Item1": "Isolation",
     "Item2": "Ire",
     "Item3": "Fear"
@@ -4234,7 +4234,7 @@
   {
     "Name": "Death from Afar",
     "URL": "https://poe2db.tw/us/Death_from_Afar",
-    "Description": "Projectiles have 25% increased Critical Hit Chance against Enemies further than 6m Projectiles deal 25% increased Damage with Hits against Enemies further than 6m",
+    "Description": "Projectiles have 25% increased Critical Hit Chance against Enemies further than 6m\n\nProjectiles deal 25% increased Damage with Hits against Enemies further than 6m",
     "Item1": "Isolation",
     "Item2": "Fear",
     "Item3": "Guilt"
@@ -4242,7 +4242,7 @@
   {
     "Name": "Cacophony",
     "URL": "https://poe2db.tw/us/Cacophony",
-    "Description": "40% increased Damage with Warcries Warcry Skills have 25% increased Area of Effect",
+    "Description": "40% increased Damage with Warcries\n\nWarcry Skills have 25% increased Area of Effect",
     "Item1": "Isolation",
     "Item2": "Guilt",
     "Item3": "Fear"
@@ -4258,7 +4258,7 @@
   {
     "Name": "Dampening Shield",
     "URL": "https://poe2db.tw/us/Dampening_Shield",
-    "Description": "28% increased maximum Energy Shield Gain 12% of maximum Energy Shield as additional Stun Threshold",
+    "Description": "28% increased maximum Energy Shield\n\nGain 12% of maximum Energy Shield as additional Stun Threshold",
     "Item1": "Guilt",
     "Item2": "Fear",
     "Item3": "Isolation"
@@ -4266,7 +4266,7 @@
   {
     "Name": "Exploit the Elements",
     "URL": "https://poe2db.tw/us/Exploit_the_Elements",
-    "Description": "24% increased Damage with Hits against Enemies affected by Elemental Ailments 30% increased chance to inflict Ailments against Rare or Unique Enemies",
+    "Description": "24% increased Damage with Hits against Enemies affected by Elemental Ailments\n\n30% increased chance to inflict Ailments against Rare or Unique Enemies",
     "Item1": "Greed",
     "Item2": "Fear",
     "Item3": "Isolation"
@@ -4282,7 +4282,7 @@
   {
     "Name": "Casting Cascade",
     "URL": "https://poe2db.tw/us/Casting_Cascade",
-    "Description": "15% reduced Spell Damage 6% increased Cast Speed for each different Non-Instant Spell you've Cast Recently",
+    "Description": "15% reduced Spell Damage\n\n6% increased Cast Speed for each different Non-Instant Spell you've Cast Recently",
     "Item1": "Fear",
     "Item2": "Greed",
     "Item3": "Isolation"
@@ -4298,7 +4298,7 @@
   {
     "Name": "Exposed to the Cosmos",
     "URL": "https://poe2db.tw/us/Exposed_to_the_Cosmos",
-    "Description": "Damage Penetrates15% Cold Resistance ColdExposure you inflict lowers Total ColdResistance by an extra 5%",
+    "Description": "Damage Penetrates 15% Cold Resistance\n\nCold Exposure you inflict lowers Total Cold Resistance by an extra 5%",
     "Item1": "Isolation",
     "Item2": "Fear",
     "Item3": "Paranoia"
@@ -4306,7 +4306,7 @@
   {
     "Name": "Perfectly Placed Knife",
     "URL": "https://poe2db.tw/us/Perfectly_Placed_Knife",
-    "Description": "30% increased Critical Hit Chance against Bleeding Enemies 20% chance to Aggravate Bleeding on targets you Critically Hit with Attacks",
+    "Description": "30% increased Critical Hit Chance against Bleeding Enemies\n\n20% chance to Aggravate Bleeding on targets you Critically Hit with Attacks",
     "Item1": "Fear",
     "Item2": "Paranoia",
     "Item3": "Isolation"
@@ -4314,7 +4314,7 @@
   {
     "Name": "Heartbreaking",
     "URL": "https://poe2db.tw/us/Heartbreaking",
-    "Description": "35% increased Critical Damage Bonus +10 to Strength",
+    "Description": "35% increased Critical Damage Bonus\n\n+10 to Strength",
     "Item1": "Isolation",
     "Item2": "Paranoia",
     "Item3": "Fear"
@@ -4322,7 +4322,7 @@
   {
     "Name": "Surging Currents",
     "URL": "https://poe2db.tw/us/Surging_Currents",
-    "Description": "Damage Penetrates15% Lightning Resistance +10 to Dexterity",
+    "Description": "Damage Penetrates 15% Lightning Resistance\n\n+10 to Dexterity",
     "Item1": "Fear",
     "Item2": "Envy",
     "Item3": "Isolation"
@@ -4330,7 +4330,7 @@
   {
     "Name": "Smoke Inhalation",
     "URL": "https://poe2db.tw/us/Smoke_Inhalation",
-    "Description": "Damage Penetrates15% Fire Resistance 15% increased Duration of Damaging Ailments on Enemies",
+    "Description": "Damage Penetrates 15% Fire Resistance\n\n15% increased Duration of Damaging Ailments on Enemies",
     "Item1": "Isolation",
     "Item2": "Envy",
     "Item3": "Fear"
@@ -4338,7 +4338,7 @@
   {
     "Name": "Controlling Magic",
     "URL": "https://poe2db.tw/us/Controlling_Magic",
-    "Description": "25% increased Critical Hit Chance for Spells Hits have 25% reduced Critical Hit Chance against you",
+    "Description": "25% increased Critical Hit Chance for Spells\n\nHits have 25% reduced Critical Hit Chance against you",
     "Item1": "Envy",
     "Item2": "Fear",
     "Item3": "Isolation"
@@ -4346,7 +4346,7 @@
   {
     "Name": "Electric Amplification",
     "URL": "https://poe2db.tw/us/Electric_Amplification",
-    "Description": "Damage Penetrates18% Lightning Resistance 25% increased Lightning Exposure Effect",
+    "Description": "Damage Penetrates 18% Lightning Resistance\n\n25% increased Lightning Exposure Effect",
     "Item1": "Isolation",
     "Item2": "Fear",
     "Item3": "Disgust"
@@ -4354,7 +4354,7 @@
   {
     "Name": "Supportive Ancestors",
     "URL": "https://poe2db.tw/us/Supportive_Ancestors",
-    "Description": "25% increased Damage while you have a Totem Totems have 2% increased Cast Speed per Summoned Totem Totems have 2% increased Attack Speed per Summoned Totem",
+    "Description": "25% increased Damage while you have a Totem\n\nTotems have 2% increased Cast Speed per Summoned Totem\n\nTotems have 2% increased Attack Speed per Summoned Totem",
     "Item1": "Fear",
     "Item2": "Disgust",
     "Item3": "Isolation"
@@ -4378,7 +4378,7 @@
   {
     "Name": "Spaghettification",
     "URL": "https://poe2db.tw/us/Spaghettification",
-    "Description": "3% increased Movement Speed 29% increased Chaos Damage -13% to Chaos Resistance 23% reduced Light Radius 7% increased Attributes",
+    "Description": "3% increased Movement Speed\n\n29% increased Chaos Damage\n\n-13% to Chaos Resistance\n\n23% reduced Light Radius\n\n7% increased Attributes",
     "Item1": "Isolation",
     "Item2": "Despair",
     "Item3": "Fear"
@@ -4386,7 +4386,7 @@
   {
     "Name": "Relentless Fallen",
     "URL": "https://poe2db.tw/us/Relentless_Fallen",
-    "Description": "Minions have 20% increased Movement Speed Minions have 8% increased Attack and Cast Speed",
+    "Description": "Minions have 20% increased Movement Speed\n\nMinions have 8% increased Attack and Cast Speed",
     "Item1": "Despair",
     "Item2": "Fear",
     "Item3": "Isolation"
@@ -4394,7 +4394,7 @@
   {
     "Name": "Overzealous",
     "URL": "https://poe2db.tw/us/Overzealous",
-    "Description": "16% increased Cast Speed 15% increased Mana Cost of Skills",
+    "Description": "16% increased Cast Speed\n\n15% increased Mana Cost of Skills",
     "Item1": "Fear",
     "Item2": "Despair",
     "Item3": "Isolation"
@@ -4402,7 +4402,7 @@
   {
     "Name": "Lightning Quick",
     "URL": "https://poe2db.tw/us/Lightning_Quick",
-    "Description": "14% increased Lightning Damage 8% increased Attack and Cast Speed with Lightning Skills",
+    "Description": "14% increased Lightning Damage\n\n8% increased Attack and Cast Speed with Lightning Skills",
     "Item1": "Fear",
     "Item2": "Fear",
     "Item3": "Isolation"
@@ -4418,7 +4418,7 @@
   {
     "Name": "Forces of Nature",
     "URL": "https://poe2db.tw/us/Forces_of_Nature",
-    "Description": "Attack Damage Penetrates 15% of Enemy ElementalResistances",
+    "Description": "Attack Damage Penetrates 15% of Enemy Elemental Resistances",
     "Item1": "Suffering",
     "Item2": "Isolation",
     "Item3": "Ire"
@@ -4426,7 +4426,7 @@
   {
     "Name": "Raw Mana",
     "URL": "https://poe2db.tw/us/Raw_Mana",
-    "Description": "12% increased maximum Mana 10% increased Mana Cost of Skills",
+    "Description": "12% increased maximum Mana\n\n10% increased Mana Cost of Skills",
     "Item1": "Suffering",
     "Item2": "Ire",
     "Item3": "Isolation"
@@ -4434,7 +4434,7 @@
   {
     "Name": "Drenched",
     "URL": "https://poe2db.tw/us/Drenched",
-    "Description": "40% increased chance to Shock Gain5% of Lightning Damage as Extra Cold Damage",
+    "Description": "40% increased chance to Shock\n\nGain 5% of Lightning Damage as Extra Cold Damage",
     "Item1": "Isolation",
     "Item2": "Suffering",
     "Item3": "Ire"
@@ -4466,7 +4466,7 @@
   {
     "Name": "Total Incineration",
     "URL": "https://poe2db.tw/us/Total_Incineration",
-    "Description": "25% increased Critical Damage Bonus against Burning Enemies 10% chance to refresh Ignite Duration on Critical Hit",
+    "Description": "25% increased Critical Damage Bonus against Burning Enemies\n\n10% chance to refresh Ignite Duration on Critical Hit",
     "Item1": "Guilt",
     "Item2": "Isolation",
     "Item3": "Suffering"
@@ -4482,7 +4482,7 @@
   {
     "Name": "Overexposure",
     "URL": "https://poe2db.tw/us/Overexposure",
-    "Description": "30% increased Cold Exposure Effect 30% increased Fire Exposure Effect 30% increased Lightning Exposure Effect",
+    "Description": "30% increased Cold Exposure Effect\n\n30% increased Fire Exposure Effect\n\n30% increased Lightning Exposure Effect",
     "Item1": "Suffering",
     "Item2": "Isolation",
     "Item3": "Greed"
@@ -4498,7 +4498,7 @@
   {
     "Name": "General Electric",
     "URL": "https://poe2db.tw/us/General_Electric",
-    "Description": "40% increased chance to Shock 5% increased Attack and Cast Speed with Lightning Skills",
+    "Description": "40% increased chance to Shock\n\n5% increased Attack and Cast Speed with Lightning Skills",
     "Item1": "Isolation",
     "Item2": "Suffering",
     "Item3": "Greed"
@@ -4514,7 +4514,7 @@
   {
     "Name": "Volcanic Skin",
     "URL": "https://poe2db.tw/us/Volcanic_Skin",
-    "Description": "Gain8% of Damage as Extra Fire Damage +20% to Fire Resistance",
+    "Description": "Gain 8% of Damage as Extra Fire Damage\n\n+20% to Fire Resistance",
     "Item1": "Suffering",
     "Item2": "Isolation",
     "Item3": "Paranoia"
@@ -4522,7 +4522,7 @@
   {
     "Name": "Power Shots",
     "URL": "https://poe2db.tw/us/Power_Shots",
-    "Description": "15% reduced Attack Speed with Crossbows 80% increased Critical Damage Bonus with Crossbows",
+    "Description": "15% reduced Attack Speed with Crossbows\n\n80% increased Critical Damage Bonus with Crossbows",
     "Item1": "Paranoia",
     "Item2": "Isolation",
     "Item3": "Suffering"
@@ -4546,7 +4546,7 @@
   {
     "Name": "Left Hand of Darkness",
     "URL": "https://poe2db.tw/us/Left_Hand_of_Darkness",
-    "Description": "Minions have 20% additional Physical Damage Reduction Minions have +23% to ChaosResistance",
+    "Description": "Minions have 20% additional Physical Damage Reduction\n\nMinions have +23% to Chaos Resistance",
     "Item1": "Isolation",
     "Item2": "Suffering",
     "Item3": "Envy"
@@ -4554,7 +4554,7 @@
   {
     "Name": "Right Hand of Darkness",
     "URL": "https://poe2db.tw/us/Right_Hand_of_Darkness",
-    "Description": "Minions have 20% increased Area of Effect Minions have 10% chance to inflict Withered on Hit",
+    "Description": "Minions have 20% increased Area of Effect\n\nMinions have 10% chance to inflict Withered on Hit",
     "Item1": "Envy",
     "Item2": "Isolation",
     "Item3": "Suffering"
@@ -4570,7 +4570,7 @@
   {
     "Name": "Cluster Bombs",
     "URL": "https://poe2db.tw/us/Cluster_Bombs",
-    "Description": "50% increased Grenade fuse duration Grenade Skills Fire an additional Projectile",
+    "Description": "50% increased Grenade fuse duration\n\nGrenade Skills Fire an additional Projectile",
     "Item1": "Suffering",
     "Item2": "Isolation",
     "Item3": "Disgust"
@@ -4578,7 +4578,7 @@
   {
     "Name": "Coming Calamity",
     "URL": "https://poe2db.tw/us/Coming_Calamity",
-    "Description": "50% increased Cold Damage while affected by Herald of Ice 50% increased Fire Damage while affected by Herald of Ash 50% increased Lightning Damage while affected by Herald of Thunder",
+    "Description": "50% increased Cold Damage while affected by Herald of Ice\n\n50% increased Fire Damage while affected by Herald of Ash\n\n50% increased Lightning Damage while affected by Herald of Thunder",
     "Item1": "Disgust",
     "Item2": "Isolation",
     "Item3": "Suffering"
@@ -4602,7 +4602,7 @@
   {
     "Name": "Calibration",
     "URL": "https://poe2db.tw/us/Calibration",
-    "Description": "30% increased maximum Energy Shield 4% increased maximum Mana",
+    "Description": "30% increased maximum Energy Shield\n\n4% increased maximum Mana",
     "Item1": "Suffering",
     "Item2": "Isolation",
     "Item3": "Despair"
@@ -4634,7 +4634,7 @@
   {
     "Name": "Urgent Call",
     "URL": "https://poe2db.tw/us/Urgent_Call",
-    "Description": "Recover 2% of Life and Mana when you use a Warcry 24% increased Warcry Speed 18% increased Warcry Cooldown Recovery Rate",
+    "Description": "Recover 2% of Life and Mana when you use a Warcry\n\n24% increased Warcry Speed\n\n18% increased Warcry Cooldown Recovery Rate",
     "Item1": "Fear",
     "Item2": "Isolation",
     "Item3": "Suffering"
@@ -4650,7 +4650,7 @@
   {
     "Name": "Patient Barrier",
     "URL": "https://poe2db.tw/us/Patient_Barrier",
-    "Description": "60% increased maximum Energy Shield 20% slower start of Energy Shield Recharge",
+    "Description": "60% increased maximum Energy Shield\n\n20% slower start of Energy Shield Recharge",
     "Item1": "Suffering",
     "Item2": "Isolation",
     "Item3": "Fear"
@@ -4682,7 +4682,7 @@
   {
     "Name": "Goring",
     "URL": "https://poe2db.tw/us/Goring",
-    "Description": "5% reduced maximum Life 30% increased amount of Life Leeched 40% increased Physical Damage",
+    "Description": "5% reduced maximum Life\n\n30% increased amount of Life Leeched\n\n40% increased Physical Damage",
     "Item1": "Ire",
     "Item2": "Isolation",
     "Item3": "Isolation"
@@ -4690,7 +4690,7 @@
   {
     "Name": "Eldritch Will",
     "URL": "https://poe2db.tw/us/Eldritch_Will",
-    "Description": "3% increased maximum Life, Mana and Energy Shield Gain 20% of maximum Energy Shield as additional Stun Threshold",
+    "Description": "3% increased maximum Life, Mana and Energy Shield\n\nGain 20% of maximum Energy Shield as additional Stun Threshold",
     "Item1": "Isolation",
     "Item2": "Guilt",
     "Item3": "Isolation"
@@ -4706,7 +4706,7 @@
   {
     "Name": "Building Toxins",
     "URL": "https://poe2db.tw/us/Building_Toxins",
-    "Description": "25% reduced Poison Duration Targets can be affected by +1 of your Poisons at the same time",
+    "Description": "25% reduced Poison Duration\n\nTargets can be affected by +1 of your Poisons at the same time",
     "Item1": "Greed",
     "Item2": "Isolation",
     "Item3": "Isolation"
@@ -4714,7 +4714,7 @@
   {
     "Name": "Catalysis",
     "URL": "https://poe2db.tw/us/Catalysis",
-    "Description": "20% increased Elemental Damage with Attacks 5% of Physical Damage from Hits taken as Damage of a Random Element",
+    "Description": "20% increased Elemental Damage with Attacks\n\n5% of Physical Damage from Hits taken as Damage of a Random Element",
     "Item1": "Isolation",
     "Item2": "Isolation",
     "Item3": "Paranoia"
@@ -4722,7 +4722,7 @@
   {
     "Name": "Enhanced Barrier",
     "URL": "https://poe2db.tw/us/Enhanced_Barrier",
-    "Description": "25% increased maximum Energy Shield +1% to all Maximum Elemental Resistances",
+    "Description": "25% increased maximum Energy Shield\n\n+1% to all Maximum Elemental Resistances",
     "Item1": "Isolation",
     "Item2": "Paranoia",
     "Item3": "Isolation"
@@ -4738,7 +4738,7 @@
   {
     "Name": "Zone of Control",
     "URL": "https://poe2db.tw/us/Zone_of_Control",
-    "Description": "40% increased Area of Effect of Curses 8% increased Effect of your Curses Enemies you Curse are Hindered, with 15% reduced Movement Speed",
+    "Description": "40% increased Area of Effect of Curses\n\n8% increased Effect of your Curses Enemies you Curse are Hindered, with 15% reduced Movement Speed",
     "Item1": "Isolation",
     "Item2": "Isolation",
     "Item3": "Envy"
@@ -4746,7 +4746,7 @@
   {
     "Name": "Wide Barrier",
     "URL": "https://poe2db.tw/us/Wide_Barrier",
-    "Description": "30% increased Block chance 25% reduced Global Defences",
+    "Description": "30% increased Block chance\n\n25% reduced Global Defences",
     "Item1": "Envy",
     "Item2": "Isolation",
     "Item3": "Isolation"
@@ -4754,7 +4754,7 @@
   {
     "Name": "Cremation",
     "URL": "https://poe2db.tw/us/Cremation",
-    "Description": "Damage Penetrates18% Fire Resistance 25% increased Fire Exposure Effect",
+    "Description": "Damage Penetrates 18% Fire Resistance\n\n25% increased Fire Exposure Effect",
     "Item1": "Isolation",
     "Item2": "Disgust",
     "Item3": "Isolation"
@@ -4770,7 +4770,7 @@
   {
     "Name": "Vocal Empowerment",
     "URL": "https://poe2db.tw/us/Vocal_Empowerment",
-    "Description": "WarcriesEmpower an additional Attack",
+    "Description": "Warcries Empower an additional Attack",
     "Item1": "Isolation",
     "Item2": "Isolation",
     "Item3": "Despair"
@@ -4802,7 +4802,7 @@
   {
     "Name": "Prism Guard",
     "URL": "https://poe2db.tw/us/Prism_Guard",
-    "Description": "+1% to all Maximum Elemental Resistances +5% to all ElementalResistances",
+    "Description": "+1% to all Maximum Elemental Resistances\n\n+5% to all Elemental Resistances",
     "Item1": "Isolation",
     "Item2": "Isolation",
     "Item3": "Suffering"

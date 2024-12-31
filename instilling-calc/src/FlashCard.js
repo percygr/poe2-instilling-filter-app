@@ -10,7 +10,14 @@ const FlashCard = ({ flashData }) => {
           {flashData.Name}
         </a>
       </h2>
-        <p>{flashData.Description}</p>
+      <p>
+        {flashData.Description.split('\n').map((line, index) => (
+          <span key={index}>
+            {line}
+            <br />
+          </span>
+        ))}
+      </p>
         <label>
           {flashData.Item1}, {flashData.Item2}, {flashData.Item3}
         </label>
