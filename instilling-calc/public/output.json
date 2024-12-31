@@ -618,7 +618,7 @@
   {
     "Name": "Rapid Recharge",
     "URL": "https://poe2db.tw/us/Rapid_Recharge",
-    "Description": "25% increased Energy Shield Recharge Rate\n\n25% faster start of Energy Shield Recharge\n\nWitch: Minions have 15% increased maximum Life Witch: Minions Revive 15% faster",
+    "Description": "25% increased Energy Shield Recharge Rate\n\n25% faster start of Energy Shield Recharge\n\nWitch: Minions have 15% increased maximum Life\n\nWitch: Minions Revive 15% faster",
     "Item1": "Guilt",
     "Item2": "Ire",
     "Item3": "Disgust"
@@ -1322,7 +1322,7 @@
   {
     "Name": "Raw Power",
     "URL": "https://poe2db.tw/us/Raw_Power",
-    "Description": "20% increased Spell Damage\n\n+10 to Intelligence\n\nWitch: 16% increased Spell Damage Witch: Minions deal 16% increased Damage Witch: +10 to Intelligence",
+    "Description": "20% increased Spell Damage\n\n+10 to Intelligence\n\nWitch: 16% increased Spell Damage\n\nWitch: Minions deal 16% increased Damage\n\nWitch: +10 to Intelligence",
     "Item1": "Greed",
     "Item2": "Envy",
     "Item3": "Despair"
@@ -2386,7 +2386,7 @@
   {
     "Name": "Path of Storms",
     "URL": "https://poe2db.tw/us/Path_of_Storms",
-    "Description": "18% increased Lightning Damage\n\n30% increased chance to Shock Witch: 18% increased Chaos Damage Witch: 15% increased Skill Effect Duration",
+    "Description": "18% increased Lightning Damage\n\n30% increased chance to Shock\n\nWitch: 18% increased Chaos Damage\n\nWitch: 15% increased Skill Effect Duration",
     "Item1": "Fear",
     "Item2": "Fear",
     "Item3": "Ire"
@@ -3106,7 +3106,7 @@
   {
     "Name": "Path of Winter",
     "URL": "https://poe2db.tw/us/Path_of_Winter",
-    "Description": "18% increased Cold Damage\n\n30% increased Freeze Buildup Witch: Minions deal 15% increased Damage Witch: Minions have 3% increased Attack and Cast Speed",
+    "Description": "18% increased Cold Damage\n\n30% increased Freeze Buildup\n\nWitch: Minions deal 15% increased Damage\n\nWitch: Minions have 3% increased Attack and Cast Speed",
     "Item1": "Suffering",
     "Item2": "Envy",
     "Item3": "Despair"
@@ -3242,7 +3242,7 @@
   {
     "Name": "Path of Flame",
     "URL": "https://poe2db.tw/us/Path_of_Flame",
-    "Description": "18% increased Fire Damage\n\n30% increased chance to Ignite Witch: 15% increased Critical Hit Chance for Spells Witch: 18% increased Physical Damage",
+    "Description": "18% increased Fire Damage\n\n30% increased chance to Ignite\n\nWitch: 15% increased Critical Hit Chance for Spells\n\nWitch: 18% increased Physical Damage",
     "Item1": "Suffering",
     "Item2": "Fear",
     "Item3": "Greed"
