@@ -14,7 +14,7 @@ const FlashCard = ({ flashData }) => {
         {flashData.Description.split('\n').map((line, index) => (
           <span key={index}>
             {line}
-            <br />
+            <br /><br />
           </span>
         ))}
       </p>
