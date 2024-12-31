@@ -3714,7 +3714,7 @@
   {
     "Name": "Deterioration",
     "URL": "https://poe2db.tw/us/Deterioration",
-    "Description": "Damaging Ailments Cannot Be inflicted on you while you already have one 20% increased Magnitude of Damaging Ailments you inflict",
+    "Description": "Damaging Ailments Cannot Be inflicted on you while you already have one\n\n20% increased Magnitude of Damaging Ailments you inflict",
     "Item1": "Paranoia",
     "Item2": "Paranoia",
     "Item3": "Isolation"
